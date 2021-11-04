@@ -1,0 +1,373 @@
+Fase,Data,Horário,Mandante,Visitante,Mandante Placar,Visitante Placar
+1F,1959-08-23,00:00,Ferroviário-MA,Tuna Luso,1,3
+1F,1959-08-23,00:00,Rio Branco-ES,Manufatora-RJ,3,0
+1F,1959-08-23,00:00,Hercílio Luz,Atlético Paranaense,1,2
+1F,1959-08-23,00:00,CSA,Bahia,0,5
+1F,1959-08-23,00:00,Auto Esporte-PB,Sport,0,3
+1F,1959-08-23,00:00,ABC,Ceará,1,1
+1F,1959-08-30,00:00,Sport,Auto Esporte-PB,5,2
+1F,1959-08-30,00:00,Tuna Luso,Ferroviário-MA,1,3
+1F,1959-08-30,00:00,Manufatora-RJ,Rio Branco-ES,0,1
+1F,1959-08-30,00:00,Atlético Paranaense,Hercílio Luz,1,0
+1F,1959-08-30,00:00,Bahia,CSA,2,0
+1F,1959-08-30,00:00,Ceará,ABC,0,0
+1F,1959-09-01,00:00,Tuna Luso,Ferroviário-MA,1,0
+1F,1959-09-01,00:00,Ceará,ABC,2,1
+2F,1959-09-13,00:00,Rio Branco-ES,Atlético Mineiro,2,2
+2F,1959-09-13,00:00,Grêmio,Atlético Paranaense,1,0
+2F,1959-09-20,00:00,Atlético Mineiro,Rio Branco-ES,2,1
+2F,1959-09-20,00:00,Ceará,Bahia,0,0
+2F,1959-09-24,00:00,Sport,Tuna Luso,3,1
+2F,1959-09-27,00:00,Bahia,Ceará,2,2
+2F,1959-09-27,00:00,Tuna Luso,Sport,2,2
+2F,1959-09-27,00:00,Atlético Paranaense,Grêmio,0,1
+2F,1959-09-29,00:00,Bahia,Ceará,2,1
+3F,1959-10-18,00:00,Atlético Mineiro,Grêmio,1,4
+3F,1959-10-25,00:00,Grêmio,Atlético Mineiro,1,0
+3F,1959-10-27,00:00,Bahia,Sport,3,2
+3F,1959-10-30,00:00,Sport,Bahia,6,0
+3F,1959-11-03,00:00,Sport,Bahia,0,2
+SF,1959-11-17,00:00,Santos,Grêmio,4,1
+SF,1959-11-19,00:00,Vasco,Bahia,0,1
+SF,1959-11-24,00:00,Bahia,Vasco,1,2
+SF,1959-11-25,00:00,Grêmio,Santos,0,0
+SF,1959-11-26,00:00,Bahia,Vasco,1,0
+F,1959-12-10,00:00,Santos,Bahia,2,3
+F,1959-12-30,00:00,Bahia,Santos,0,2
+F,1960-03-29,16:00,Bahia,Santos,3,1
+1F,1961-07-09,16:15,Fonseca-RJ,America-RJ,0,0
+1F,1961-07-12,22:25,Palmeiras,Coritiba,2,0
+1F,1961-07-13,22:30,America-RJ,Fonseca-RJ,3,0
+1F,1961-07-16,17:00,Fortaleza,ABC,3,1
+1F,1961-07-16,17:15,Remo,Moto Club,4,0
+1F,1961-07-20,00:00,Santa Cruz-SE,Bahia,0,2
+1F,1961-07-23,16:25,Santo Antônio-ES,Cruzeiro,1,3
+1F,1961-07-23,16:30,Coritiba,Palmeiras,3,1
+1F,1961-07-23,16:50,ABC,Fortaleza,1,1
+1F,1961-07-23,16:50,CSA,Campinense,2,3
+1F,1961-07-23,17:05,Moto Club,Remo,3,3
+1F,1961-07-30,17:00,Campinense,CSA,2,1
+1F,1961-07-30,17:00,Cruzeiro,Santo Antônio-ES,2,1
+1F,1961-08-02,16:35,Metropol,Grêmio,1,6
+1F,1961-08-03,21:30,Bahia,Santa Cruz-SE,3,1
+1F,1961-08-09,21:15,Grêmio,Metropol,2,3
+1F,1961-08-09,21:20,Palmeiras,Coritiba,4,1
+2F,1961-08-13,16:05,Remo,Fortaleza,1,0
+1F,1961-08-16,21:15,Grêmio,Metropol,3,1
+2F,1961-08-20,16:05,Fortaleza,Remo,2,1
+2F,1961-08-23,21:00,Fortaleza,Remo,2,0
+2F,1961-08-23,21:30,America-RJ,Cruzeiro,2,1
+2F,1961-08-30,21:15,Cruzeiro,America-RJ,1,1
+2F,1961-09-20,21:15,Grêmio,Palmeiras,0,3
+2F,1961-09-24,00:00,CSA,Bahia,0,3
+2F,1961-09-27,21:30,Palmeiras,Grêmio,1,1
+2F,1961-09-29,00:00,Bahia,CSA,1,0
+3F,1961-10-15,16:00,Palmeiras,America-RJ,1,1
+3F,1961-10-18,21:30,America-RJ,Palmeiras,2,1
+3F,1961-10-26,21:15,Bahia,Fortaleza,2,0
+3F,1961-11-05,16:00,Fortaleza,Bahia,2,3
+SF,1961-11-11,21:30,America-RJ,Santos,2,6
+SF,1961-11-19,16:10,Santos,America-RJ,0,1
+SF,1961-11-21,21:15,Santos,America-RJ,6,1
+SF,1961-11-23,21:25,Náutico,Bahia,0,0
+SF,1961-11-27,21:25,Bahia,Náutico,1,0
+F,1961-12-22,21:10,Bahia,Santos,1,1
+F,1961-12-27,18:25,Santos,Bahia,5,1
+1F,1962-09-02,,River-PI,Ceará,0,0
+2F,1962-09-02,,Rio Branco-RJ,Santo Antônio-ES,1,1
+1F,1962-09-05,,Campinense,ABC,4,0
+1F,1962-09-06,,Sergipe,CRB,2,2
+2F,1962-09-09,,Santo Antônio-ES,Rio Branco-RJ,1,2
+1F,1962-09-09,,CRB,Sergipe,1,1
+2F,1962-09-09,,Comercial-PR,Metropol,1,1
+1F,1962-09-09,,ABC,Campinense,1,3
+1F,1962-09-09,,Ceará,River-PI,7,5
+1F,1962-09-09,16:00,Paysandu,Sampaio Corrêa,3,2
+1F,1962-09-11,,CRB,Sergipe,6,5
+2F,1962-09-16,,Metropol,Comercial-PR,2,1
+1F,1962-09-16,,Sampaio Corrêa,Paysandu,2,3
+3F,1962-09-20,,Internacional,Metropol,3,2
+2F,1962-09-23,,Campinense,CRB,2,1
+2F,1962-09-23,,Ceará,Paysandu,0,0
+3F,1962-09-25,,Rio Branco-RJ,Cruzeiro,1,1
+3F,1962-09-25,,Metropol,Internacional,2,3
+2F,1962-09-30,,Paysandu,Ceará,1,1
+2F,1962-09-30,,CRB,Campinense,0,6
+3F,1962-10-03,,Cruzeiro,Rio Branco-RJ,1,0
+2F,1962-10-03,,Paysandu,Ceará,1,3
+4F,1962-10-10,,Cruzeiro,Internacional,1,1
+3F,1962-10-12,,Sport,Ceará,2,0
+3F,1962-10-17,,Ceará,Sport,1,1
+4F,1962-10-17,,Internacional,Cruzeiro,2,1
+3F,1962-10-31,,Bahia,Campinense,1,0
+3F,1962-11-08,,Campinense,Bahia,2,0
+3F,1962-11-11,,Campinense,Bahia,1,1
+4F,1962-11-20,,Campinense,Sport,0,0
+SF,1962-11-21,,Botafogo,Internacional,2,2
+4F,1962-11-24,,Sport,Campinense,3,0
+SF,1962-11-28,,Internacional,Botafogo,2,2
+SF,1962-11-30,,Internacional,Botafogo,0,2
+SF,1963-01-12,,Sport,Santos,1,1
+SF,1963-01-16,,Santos,Sport,4,0
+F,1963-03-19,00:00,Santos,Botafogo,4,3
+F,1963-03-31,,Botafogo,Santos,3,1
+F,1963-04-02,16:00,Botafogo,Santos,0,5
+1F,1964-07-26,,Rio Branco-ES,Goytacaz,1,1
+1F,1964-07-26,,Alecrim,Campinense,2,3
+1F,1964-07-26,,River-PI,Maranhão,4,1
+1F,1964-07-26,,Paysandu,Nacional-AM,2,0
+1F,1964-07-26,,Vila Nova,Cruzeiro do Sul-DF,3,1
+1F,1964-07-26,,Confiança,CSA,2,0
+1F,1964-08-02,,Nacional-AM,Paysandu,1,1
+1F,1964-08-02,,Cruzeiro do Sul-DF,Vila Nova,2,2
+1F,1964-08-02,,Campinense,Alecrim,4,0
+1F,1964-08-02,,CSA,Confiança,1,0
+1F,1964-08-02,,Maranhão,River-PI,3,2
+1F,1964-08-04,,CSA,Confiança,1,3
+1F,1964-08-04,,Maranhão,River-PI,2,1
+2F,1964-08-09,,Metropol,Grêmio Maringá,1,1
+2F,1964-08-09,,Paysandu,Maranhão,2,2
+2F,1964-08-09,,Campinense,Confiança,2,1
+1F,1964-08-09,,Goytacaz,Rio Branco-ES,0,3
+2F,1964-08-16,,Vila Nova,Rio Branco-ES,2,1
+2F,1964-08-16,,Maranhão,Paysandu,0,1
+2F,1964-08-16,,Confiança,Campinense,4,1
+2F,1964-08-18,,Confiança,Campinense,2,0
+2F,1964-08-20,,Rio Branco-ES,Vila Nova,4,0
+2F,1964-08-23,,Rio Branco-ES,Vila Nova,2,0
+3F,1964-08-30,,Náutico,Paysandu,3,1
+3F,1964-08-30,,Ceará,Confiança,3,0
+3F,1964-09-02,,Grêmio,Metropol,1,1
+3F,1964-09-06,,Rio Branco-ES,Atlético Mineiro,1,1
+3F,1964-09-06,,Confiança,Ceará,2,1
+3F,1964-09-06,,Paysandu,Náutico,0,6
+3F,1964-09-09,,Confiança,Ceará,1,2
+3F,1964-09-10,,Atlético Mineiro,Rio Branco-ES,1,0
+3F,1964-09-16,,Metropol,Grêmio,2,0
+2F,1964-09-16,,Grêmio Maringá,Metropol,1,1
+4F,1964-09-20,,Atlético Mineiro,Metropol,1,0
+4F,1964-09-20,,Náutico,Ceará,3,0
+4F,1964-09-27,,Metropol,Atlético Mineiro,1,2
+4F,1964-09-27,,Ceará,Náutico,1,0
+4F,1964-09-29,,Ceará,Náutico,4,0
+QF,1964-10-18,,Atlético Mineiro,Santos,1,4
+QF,1964-10-18,,Ceará,Fluminense de Feira,2,0
+QF,1964-10-25,,Fluminense de Feira,Ceará,2,1
+QF,1964-10-25,,Santos,Atlético Mineiro,5,1
+QF,1964-10-27,,Ceará,Fluminense de Feira,2,0
+SF,1964-11-04,,Santos,Palmeiras,3,2
+SF,1964-11-08,,Ceará,Flamengo,1,2
+SF,1964-11-10,,Santos,Palmeiras,4,0
+SF,1964-11-18,,Flamengo,Ceará,3,1
+F,1964-12-16,,Santos,Flamengo,4,1
+F,1964-12-19,,Flamengo,Santos,0,0
+1F,1965-07-18,,Eletrovapo,Desportiva Ferroviária,1,1
+1F,1965-07-18,,Nacional-AM,Remo,0,1
+1F,1965-07-18,,Atlético Goianiense,Guanabara-DF,2,0
+1F,1965-07-18,,Campinense,Alecrim,4,1
+1F,1965-07-18,,Sampaio Corrêa,Flamengo-PI,1,0
+1F,1965-07-18,,Sergipe,CRB,1,4
+1F,1965-07-25,,Alecrim,Campinense,1,1
+1F,1965-07-25,,Desportiva Ferroviária,Eletrovapo,2,2
+1F,1965-07-25,,Guanabara-DF,Atlético Goianiense,2,4
+1F,1965-07-25,,Remo,Nacional-AM,3,1
+1F,1965-07-25,,Flamengo-PI,Sampaio Corrêa,0,1
+1F,1965-07-27,,Desportiva Ferroviária,Eletrovapo,1,1
+1F,1965-08-01,,CRB,Sergipe,0,2
+1F,1965-08-03,,CRB,Sergipe,2,2
+2F,1965-08-08,,Grêmio Maringá,Grêmio,0,4
+2F,1965-08-08,,Desportiva Ferroviária,Atlético Goianiense,2,0
+2F,1965-08-08,,Campinense,CRB,0,0
+2F,1965-08-08,,Remo,Sampaio Corrêa,5,1
+2F,1965-08-15,,Atlético Goianiense,Desportiva Ferroviária,4,0
+2F,1965-08-15,,Grêmio,Grêmio Maringá,2,0
+2F,1965-08-15,,CRB,Campinense,0,1
+2F,1965-08-15,,Sampaio Corrêa,Remo,1,0
+2F,1965-08-17,,Atlético Goianiense,Desportiva Ferroviária,2,1
+2F,1965-08-18,,Sampaio Corrêa,Remo,3,3
+3F,1965-08-29,,Remo,Náutico,3,0
+3F,1965-08-29,,Campinense,Vitória,1,2
+3F,1965-09-05,,Náutico,Remo,3,1
+3F,1965-09-05,,Olímpico-SC,Grêmio,0,1
+3F,1965-09-05,,Vitória,Campinense,1,0
+3F,1965-09-07,,Náutico,Remo,3,1
+3F,1965-09-12,,Grêmio,Olímpico-SC,4,1
+4F,1965-09-15,,Náutico,Vitória,2,0
+4F,1965-09-22,,Vitória,Náutico,0,2
+3F,1965-09-26,,Atlético Goianiense,Siderúrgica,0,3
+3F,1965-09-29,15:00,Siderúrgica,Atlético Goianiense,3,1
+4F,1965-10-07,,Grêmio,Siderúrgica,3,1
+QF,1965-10-13,,Fortaleza,Náutico,2,3
+4F,1965-10-13,15:00,Siderúrgica,Grêmio,2,2
+QF,1965-10-20,,Náutico,Fortaleza,3,2
+QF,1965-10-20,,Palmeiras,Grêmio,4,1
+QF,1965-10-27,,Grêmio,Palmeiras,5,1
+QF,1965-10-29,,Grêmio,Palmeiras,0,2
+SF,1965-11-03,,Santos,Palmeiras,4,2
+SF,1965-11-03,,Náutico,Vasco,2,2
+SF,1965-11-10,,Palmeiras,Santos,1,1
+SF,1965-11-10,,Vasco,Náutico,1,0
+F,1965-12-01,,Santos,Vasco,5,1
+F,1965-12-08,,Vasco,Santos,0,1
+1F,1966-07-10,,CSA,Confiança,2,0
+3F,1966-07-10,,Desportiva Ferroviária,Americano,2,2
+4F,1966-07-10,,Inter de Lages,Ferroviário-PR,3,3
+1F,1966-07-13,,Paysandu,Rio Negro-AM,6,0
+3F,1966-07-13,,Rabello-DF,Anápolis,2,0
+1F,1966-07-14,,Campinense,ABC,2,0
+1F,1966-07-17,,Rio Negro-AM,Paysandu,0,3
+3F,1966-07-17,,Americano,Desportiva Ferroviária,3,0
+4F,1966-07-17,,Ferroviário-PR,Inter de Lages,2,0
+1F,1966-07-17,,Confiança,CSA,0,1
+1F,1966-07-17,,Flamengo-PI,Sampaio Corrêa,2,0
+3F,1966-07-20,,Anápolis,Rabello-DF,1,0
+1F,1966-07-24,,Sampaio Corrêa,Flamengo-PI,1,1
+1F,1966-07-24,,ABC,Campinense,1,2
+2F,1966-08-07,,Paysandu,Flamengo-PI,2,0
+3F,1966-08-14,,Anápolis,Rabello-DF,4,1
+2F,1966-08-15,,Campinense,CSA,2,3
+2F,1966-08-15,,Flamengo-PI,Paysandu,2,0
+8F,1966-08-17,,Ferroviário-PR,Grêmio,0,0
+2F,1966-08-18,,Flamengo-PI,Paysandu,0,0
+2F,1966-08-21,,CSA,Campinense,2,0
+4F,1966-08-23,,Anápolis,Americano,2,0
+4F,1966-08-28,,Americano,Anápolis,2,1
+4F,1966-08-30,,Americano,Anápolis,3,2
+3F,1966-08-31,,CSA,Vitória,2,3
+3F,1966-08-31,,Fortaleza,Paysandu,3,1
+1/8,1966-09-04,,Grêmio,Ferroviário-PR,3,0
+3F,1966-09-07,,Paysandu,Fortaleza,1,1
+1/8,1966-09-07,,Americano,Cruzeiro,0,4
+3F,1966-09-13,,Vitória,CSA,4,2
+1/8,1966-09-14,,Cruzeiro,Americano,6,1
+4F,1966-09-20,,Fortaleza,Vitória,1,1
+4F,1966-09-23,,Vitória,Fortaleza,4,0
+1/8,1966-09-28,,Náutico,Vitória,3,0
+1/8,1966-10-05,,Vitória,Náutico,2,3
+QF,1966-10-09,,Grêmio,Cruzeiro,0,0
+QF,1966-10-19,,Palmeiras,Náutico,0,0
+QF,1966-10-23,,Cruzeiro,Grêmio,2,1
+QF,1966-10-26,,Náutico,Palmeiras,0,0
+QF,1966-10-28,,Náutico,Palmeiras,3,0
+SF,1966-11-09,,Náutico,Santos,0,2
+SF,1966-11-09,,Cruzeiro,Fluminense,1,0
+SF,1966-11-17,,Santos,Náutico,3,5
+SF,1966-11-19,,Santos,Náutico,4,1
+SF,1966-11-23,,Fluminense,Cruzeiro,1,3
+F,1966-11-30,,Cruzeiro,Santos,6,2
+F,1966-12-07,,Santos,Cruzeiro,2,3
+1F,1966-07-10,,CSA,Confiança,2,0
+3F,1966-07-10,,Desportiva Ferroviária,Americano,2,2
+4F,1966-07-10,,Inter de Lages,Ferroviário-PR,3,3
+1F,1966-07-13,,Paysandu,Rio Negro-AM,6,0
+3F,1966-07-13,,Rabello-DF,Anápolis,2,0
+1F,1966-07-14,,Campinense,ABC,2,0
+1F,1966-07-17,,Rio Negro-AM,Paysandu,0,3
+3F,1966-07-17,,Americano,Desportiva Ferroviária,3,0
+4F,1966-07-17,,Ferroviário-PR,Inter de Lages,2,0
+1F,1966-07-17,,Confiança,CSA,0,1
+1F,1966-07-17,,Flamengo-PI,Sampaio Corrêa,2,0
+3F,1966-07-20,,Anápolis,Rabello-DF,1,0
+1F,1966-07-24,,Sampaio Corrêa,Flamengo-PI,1,1
+1F,1966-07-24,,ABC,Campinense,1,2
+2F,1966-08-07,,Paysandu,Flamengo-PI,2,0
+3F,1966-08-14,,Anápolis,Rabello-DF,4,1
+2F,1966-08-15,,Campinense,CSA,2,3
+2F,1966-08-15,,Flamengo-PI,Paysandu,2,0
+8F,1966-08-17,,Ferroviário-PR,Grêmio,0,0
+2F,1966-08-18,,Flamengo-PI,Paysandu,0,0
+2F,1966-08-21,,CSA,Campinense,2,0
+4F,1966-08-23,,Anápolis,Americano,2,0
+4F,1966-08-28,,Americano,Anápolis,2,1
+4F,1966-08-30,,Americano,Anápolis,3,2
+3F,1966-08-31,,CSA,Vitória,2,3
+3F,1966-08-31,,Fortaleza,Paysandu,3,1
+1/8,1966-09-04,,Grêmio,Ferroviário-PR,3,0
+3F,1966-09-07,,Paysandu,Fortaleza,1,1
+1/8,1966-09-07,,Americano,Cruzeiro,0,4
+3F,1966-09-13,,Vitória,CSA,4,2
+1/8,1966-09-14,,Cruzeiro,Americano,6,1
+4F,1966-09-20,,Fortaleza,Vitória,1,1
+4F,1966-09-23,,Vitória,Fortaleza,4,0
+1/8,1966-09-28,,Náutico,Vitória,3,0
+1/8,1966-10-05,,Vitória,Náutico,2,3
+QF,1966-10-09,,Grêmio,Cruzeiro,0,0
+QF,1966-10-19,,Palmeiras,Náutico,0,0
+QF,1966-10-23,,Cruzeiro,Grêmio,2,1
+QF,1966-10-26,,Náutico,Palmeiras,0,0
+QF,1966-10-28,,Náutico,Palmeiras,3,0
+SF,1966-11-09,,Náutico,Santos,0,2
+SF,1966-11-09,,Cruzeiro,Fluminense,1,0
+SF,1966-11-17,,Santos,Náutico,3,5
+SF,1966-11-19,,Santos,Náutico,4,1
+SF,1966-11-23,,Fluminense,Cruzeiro,1,3
+F,1966-11-30,,Cruzeiro,Santos,6,2
+F,1966-12-07,,Santos,Cruzeiro,2,3
+1/8,1967-11-15,16:35,Atlético Mineiro,Botafogo,1,1
+Grp.D,1967-11-19,16:00,Grêmio,Perdigão-SC,8,0
+QF,1967-11-22,21:25,Náutico,Atlético Mineiro,3,0
+QF,1967-11-29,21:40,Atlético Mineiro,Náutico,2,0
+QF,1967-12-01,21:05,Atlético Mineiro,Náutico,2,2
+SF,1967-12-06,21:25,Grêmio,Palmeiras,2,1
+SF,1967-12-06,21:35,Cruzeiro,Náutico,2,1
+SF,1967-12-13,21:30,Palmeiras,Grêmio,3,1
+SF,1967-12-13,21:40,Náutico,Cruzeiro,3,0
+SF,1967-12-15,,Palmeiras,Grêmio,2,1
+SF,1967-12-15,,Náutico,Cruzeiro,0,0
+F,1967-12-20,21:00,Náutico,Palmeiras,1,3
+F,1967-12-27,21:00,Palmeiras,Náutico,1,2
+F,1967-12-29,21:00,Palmeiras,Náutico,2,0
+Grp.B,1968-08-04,,Piauí,América-RN,2,0
+Grp.D,1968-08-04,,Operário-MT,Atlético Goianiense,1,0
+Grp.E,1968-08-04,,Água Verde-PR,Grêmio,0,0
+Grp.A,1968-08-04,,Olímpico Clube,Paysandu,1,1
+Grp.C,1968-08-04,,CSA,Sergipe,1,0
+Grp.C,1968-08-11,,Sergipe,CSA,2,2
+Grp.D,1968-08-11,,Rabello-DF,Operário-MT,2,1
+Grp.E,1968-08-11,,Metropol,Grêmio,0,0
+Grp.B,1968-08-11,,América-RN,Piauí,0,1
+Grp.A,1968-08-11,,Paysandu,Olímpico Clube,6,0
+Grp.D,1968-08-14,,Operário-MT,Rabello-DF,3,2
+Grp.E,1968-08-14,,Água Verde-PR,Metropol,1,1
+Grp.B,1968-08-14,,Campinense,Piauí,0,1
+Grp.A,1968-08-15,,Moto Club,Olímpico Clube,2,1
+Grp.C,1968-08-15,,Bahia,CSA,2,0
+Grp.C,1968-08-18,,Sergipe,Bahia,1,1
+Grp.B,1968-08-18,,Campinense,América-RN,1,2
+Grp.A,1968-08-18,,Moto Club,Paysandu,3,1
+Grp.E,1968-08-18,,Metropol,Água Verde-PR,4,0
+1E,1968-08-18,,Desportiva Ferroviária,Goytacaz,0,0
+Grp.D,1968-08-18,,Atlético Goianiense,Operário-MT,5,0
+Grp.C,1968-08-20,,CSA,Bahia,2,3
+Grp.A,1968-08-21,,Paysandu,Moto Club,0,2
+Grp.D,1968-08-21,,Rabello-DF,Atlético Goianiense,0,1
+Grp.E,1968-08-21,,Grêmio,Água Verde-PR,2,0
+Grp.B,1968-08-21,,América-RN,Campinense,0,0
+Grp.C,1968-08-25,,Bahia,Sergipe,3,0
+Grp.D,1968-08-25,,Atlético Goianiense,Rabello-DF,2,2
+Grp.E,1968-08-25,,Grêmio,Metropol,0,0
+Grp.B,1968-08-25,,Piauí,Campinense,1,0
+Grp.A,1968-08-25,,Olímpico Clube,Moto Club,1,0
+1E,1968-08-25,,Goytacaz,Desportiva Ferroviária,2,1
+1E,1968-09-01,,Moto Club,Piauí,2,1
+1E,1968-09-08,,Piauí,Moto Club,1,1
+1/8,1968-11-10,,Goytacaz,Atlético Goianiense,2,0
+1/8,1968-11-17,,Atlético Goianiense,Goytacaz,2,1
+1/8,1968-11-19,,Atlético Goianiense,Goytacaz,2,0
+QF,1968-12-05,,Botafogo,Metropol,6,1
+QF,1968-12-08,,Metropol,Botafogo,1,0
+1/8,1969-01-19,,Bahia,Moto Club,5,0
+1/8,1969-01-21,,Moto Club,Bahia,0,1
+QF,1969-02-02,,Bahia,Fortaleza,1,0
+QF,1969-02-02,,Atlético Goianiense,Cruzeiro,1,2
+QF,1969-02-09,,Fortaleza,Bahia,1,0
+QF,1969-02-09,,Cruzeiro,Atlético Goianiense,6,1
+QF,1969-02-11,,Fortaleza,Bahia,2,1
+QF,1969-04-02,,Botafogo,Metropol,1,0
+SF,1969-08-23,,Cruzeiro,Botafogo,0,1
+SF,1969-08-24,,Fortaleza,Náutico,2,1
+SF,1969-08-27,,Náutico,Fortaleza,2,1
+SF,1969-08-27,,Botafogo,Cruzeiro,1,1
+SF,1969-08-29,,Náutico,Fortaleza,0,1
+F,1969-09-03,,Fortaleza,Botafogo,2,2
+F,1969-10-04,,Botafogo,Fortaleza,4,0
