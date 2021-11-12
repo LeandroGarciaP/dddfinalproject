@@ -1,5 +1,3 @@
-# Modelo para Apresentação da Entrega Prévia do Projeto
-
 # Projeto `Campeonato Brasileiro Consolidado - Primeira Divisão`
 
 # Equipe `Bomba Patch` - `FUT`
