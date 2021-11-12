@@ -1,0 +1,118 @@
+Fase,Data,Horário,Mandante,Visitante,Mandante Placar,Visitante Placar
+Grp.B,1967-03-05,00:00,Portuguesa,Flamengo,1,2
+Grp.B,1967-03-05,00:00,Fluminense,Palmeiras,2,4
+Grp.B,1967-03-05,00:00,Ferroviário-PR,Bangu,1,1
+Grp.B,1967-03-05,16:00,Internacional,Grêmio,2,0
+Grp.B,1967-03-05,00:00,Cruzeiro,Atlético Mineiro,4,0
+Grp.B,1967-03-08,00:00,Bangu,Vasco,2,0
+Grp.B,1967-03-08,00:00,Atlético Mineiro,Santos,0,1
+Grp.B,1967-03-08,21:15,Internacional,Flamengo,1,1
+Grp.B,1967-03-09,00:00,Palmeiras,Corinthians,2,1
+Grp.B,1967-03-11,00:00,Portuguesa,Internacional,2,1
+Grp.B,1967-03-11,00:00,Botafogo,Atlético Mineiro,4,4
+Grp.B,1967-03-12,00:00,Grêmio,Santos,1,1
+Grp.B,1967-03-12,00:00,Palmeiras,Vasco,5,0
+Grp.B,1967-03-12,00:00,Ferroviário-PR,Corinthians,1,2
+Grp.A,1967-03-12,00:00,Bangu,São Paulo,2,1
+Grp.A,1967-03-12,00:00,Cruzeiro,Fluminense,3,1
+Grp.B,1967-03-15,00:00,Santos,Internacional,5,1
+Grp.B,1967-03-15,00:00,Flamengo,Cruzeiro,2,0
+Grp.B,1967-03-18,00:00,Vasco,Portuguesa,3,3
+Grp.B,1967-03-19,00:00,Flamengo,Santos,0,1
+Grp.B,1967-03-19,00:00,Grêmio,Palmeiras,2,0
+Grp.A,1967-03-19,00:00,Corinthians,Fluminense,3,3
+Grp.B,1967-03-19,00:00,Atlético Mineiro,Bangu,0,1
+Grp.B,1967-03-19,00:00,Ferroviário-PR,Internacional,0,1
+Grp.A,1967-03-19,10:00,São Paulo,Botafogo,1,1
+Grp.B,1967-03-22,00:00,Vasco,Cruzeiro,1,1
+Grp.B,1967-03-22,00:00,Santos,Botafogo,0,0
+Grp.A,1967-03-22,21:15,Internacional,São Paulo,1,0
+Grp.B,1967-03-25,00:00,Bangu,Flamengo,4,3
+Grp.B,1967-03-26,00:00,Vasco,Santos,2,1
+Grp.B,1967-03-26,00:00,Cruzeiro,Portuguesa,2,1
+Grp.A,1967-03-26,00:00,São Paulo,Fluminense,1,2
+Grp.B,1967-03-26,00:00,Grêmio,Botafogo,0,0
+Grp.B,1967-03-26,00:00,Ferroviário-PR,Palmeiras,2,4
+Grp.A,1967-03-29,00:00,Corinthians,Cruzeiro,4,2
+Grp.B,1967-03-29,00:00,Flamengo,Grêmio,1,2
+Grp.B,1967-03-29,00:00,Atlético Mineiro,Palmeiras,4,2
+Grp.A,1967-03-29,21:15,Internacional,Botafogo,0,1
+Grp.B,1967-04-01,00:00,Vasco,Fluminense,2,2
+Grp.B,1967-04-01,00:00,Santos,São Paulo,1,1
+Grp.B,1967-04-02,00:00,Ferroviário-PR,Portuguesa,2,3
+Grp.B,1967-04-02,00:00,Bangu,Grêmio,1,1
+Grp.B,1967-04-02,00:00,Atlético Mineiro,Flamengo,3,1
+Grp.B,1967-04-02,00:00,Palmeiras,Cruzeiro,3,2
+Grp.A,1967-04-02,15:45,Internacional,Corinthians,2,2
+Grp.B,1967-04-05,00:00,Fluminense,Atlético Mineiro,0,2
+Grp.B,1967-04-05,00:00,Palmeiras,Portuguesa,1,1
+Grp.B,1967-04-05,00:00,Grêmio,Corinthians,1,2
+Grp.B,1967-04-08,00:00,Palmeiras,Santos,2,1
+Grp.A,1967-04-08,00:00,Bangu,Botafogo,0,0
+Grp.B,1967-04-08,00:00,Corinthians,Vasco,2,0
+Grp.B,1967-04-09,00:00,Flamengo,São Paulo,2,2
+Grp.B,1967-04-09,00:00,Atlético Mineiro,Grêmio,1,1
+Grp.B,1967-04-09,00:00,Ferroviário-PR,Fluminense,1,2
+Grp.A,1967-04-09,16:00,Internacional,Cruzeiro,2,1
+Grp.B,1967-04-12,00:00,Flamengo,Botafogo,4,2
+Grp.B,1967-04-12,00:00,Corinthians,Portuguesa,2,1
+Grp.A,1967-04-12,00:00,Cruzeiro,Bangu,3,0
+Grp.B,1967-04-12,21:15,Internacional,Palmeiras,2,2
+Grp.A,1967-04-15,00:00,Fluminense,Botafogo,4,3
+Grp.B,1967-04-15,00:00,Santos,Portuguesa,2,2
+Grp.B,1967-04-16,00:00,Grêmio,São Paulo,1,1
+Grp.B,1967-04-16,00:00,Ferroviário-PR,Vasco,0,1
+Grp.B,1967-04-16,00:00,Palmeiras,Flamengo,3,3
+Grp.B,1967-04-16,00:00,Atlético Mineiro,Internacional,0,0
+Grp.A,1967-04-16,00:00,Bangu,Corinthians,1,4
+Grp.B,1967-04-19,00:00,São Paulo,Ferroviário-PR,4,0
+Grp.B,1967-04-19,00:00,Cruzeiro,Santos,3,1
+Grp.A,1967-04-19,21:00,Internacional,Fluminense,3,0
+Grp.B,1967-04-22,00:00,Vasco,Flamengo,0,0
+Grp.A,1967-04-22,00:00,Corinthians,São Paulo,1,0
+Grp.B,1967-04-23,00:00,Grêmio,Fluminense,3,1
+Grp.B,1967-04-23,00:00,Santos,Bangu,3,0
+Grp.B,1967-04-23,00:00,Botafogo,Palmeiras,0,0
+Grp.B,1967-04-23,00:00,Ferroviário-PR,Cruzeiro,0,0
+Grp.B,1967-04-23,00:00,Atlético Mineiro,Portuguesa,1,3
+Grp.B,1967-04-26,00:00,Vasco,Botafogo,1,0
+Grp.B,1967-04-26,00:00,Portuguesa,São Paulo,1,1
+Grp.B,1967-04-26,00:00,Atlético Mineiro,Corinthians,0,0
+Grp.A,1967-04-26,21:15,Internacional,Bangu,2,2
+Grp.A,1967-04-29,00:00,Botafogo,Corinthians,0,2
+Grp.B,1967-04-30,00:00,Portuguesa,Bangu,1,0
+Grp.B,1967-04-30,00:00,Grêmio,Vasco,4,0
+Grp.B,1967-04-30,00:00,Fluminense,Santos,3,0
+Grp.A,1967-04-30,00:00,Cruzeiro,São Paulo,0,2
+Grp.B,1967-04-30,00:00,Ferroviário-PR,Flamengo,1,1
+Grp.B,1967-05-03,00:00,Santos,Ferroviário-PR,3,0
+Grp.B,1967-05-03,00:00,Fluminense,Portuguesa,0,1
+Grp.B,1967-05-03,00:00,Atlético Mineiro,São Paulo,0,3
+Grp.B,1967-05-03,21:00,Internacional,Vasco,0,0
+Grp.B,1967-05-06,00:00,Palmeiras,São Paulo,1,1
+Grp.B,1967-05-06,00:00,Flamengo,Corinthians,2,3
+Grp.B,1967-05-07,00:00,Grêmio,Cruzeiro,1,0
+Grp.B,1967-05-07,00:00,Ferroviário-PR,Botafogo,0,0
+Grp.B,1967-05-07,00:00,Atlético Mineiro,Vasco,1,0
+Grp.A,1967-05-07,00:00,Bangu,Fluminense,2,0
+Grp.B,1967-05-10,00:00,Portuguesa,Botafogo,3,0
+Grp.B,1967-05-10,00:00,Grêmio,Ferroviário-PR,2,0
+Grp.B,1967-05-13,00:00,Flamengo,Fluminense,1,1
+Grp.B,1967-05-13,00:00,Corinthians,Santos,1,1
+Grp.B,1967-05-14,00:00,Grêmio,Portuguesa,1,1
+Grp.B,1967-05-14,00:00,São Paulo,Vasco,0,0
+Grp.B,1967-05-14,00:00,Ferroviário-PR,Atlético Mineiro,1,2
+Grp.A,1967-05-14,00:00,Cruzeiro,Botafogo,2,1
+Grp.B,1967-05-14,00:00,Bangu,Palmeiras,0,2
+F,1967-05-20,00:00,Corinthians,Grêmio,2,1
+F,1967-05-21,16:45,Internacional,Palmeiras,1,2
+F,1967-05-24,00:00,Corinthians,Palmeiras,2,2
+F,1967-05-24,00:00,Grêmio,Internacional,1,1
+F,1967-05-28,00:00,Grêmio,Palmeiras,1,1
+F,1967-05-28,00:00,Corinthians,Internacional,0,1
+F,1967-05-31,00:00,Grêmio,Corinthians,0,1
+F,1967-06-01,00:00,Palmeiras,Internacional,0,0
+F,1967-06-04,00:00,Palmeiras,Corinthians,1,0
+F,1967-06-04,16:00,Internacional,Grêmio,0,0
+F,1967-06-07,21:00,Internacional,Corinthians,3,0
+F,1967-06-08,00:00,Palmeiras,Grêmio,2,1
