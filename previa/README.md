@@ -26,7 +26,7 @@ Pensando nisso, o objetivo desse projeto é consolidar e tratar os registros de 
 
 
 ## Slides da Apresentação
-> Coloque aqui o link para o PDF da apresentação prévia
+> [Prévia - Slides](https://github.com/LeandroGarciaP/dddfinalproject/blob/main/previa/slides/Apresenta%C3%A7%C3%A3o%20pr%C3%A9via.pdf)
 
 ## Modelo Conceitual Preliminar
 
