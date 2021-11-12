@@ -1,6 +1,6 @@
 # Consolidado de partidas de futebol masculino de Campeonatos Nacionais realizado no Brasil organizados pela CBF desde 1959.
 
-# Dupla `Joga Bonito` - `SOFUT`
+# Equipe `Bomba Patch` - `FUT`
 * `Gustavo Mantellatto Elias` - `169366`
 * `Leandro Garcia` - `178258`
 
