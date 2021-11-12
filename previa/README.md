@@ -46,11 +46,9 @@ Campeonato(_Nome_, _Ano_, Campeão, Vice)
   Vice chave estrangeira -> Clube,
 ~~~
 
-> Para o modelo de grafos de propriedades, utilize este
-> [modelo de base](https://docs.google.com/presentation/d/10RN7bDKUka_Ro2_41WyEE76Wxm4AioiJOrsh6BRY3Kk/edit?usp=sharing) para construir o seu.
-> Coloque a imagem do PNG do seu modelo lógico como ilustrado abaixo (a imagem estará na pasta `image`):
->
-> ![Modelo Lógico de Grafos](images/modelo-logico-grafos.png)
+
+### Grafo de Propriedades
+> ![Modelo Lógico de Grafos](assets/grafo_propriedades.png)
 
 
 ## Dataset Preliminar a ser Publicado
