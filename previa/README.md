@@ -28,7 +28,6 @@ Pensando nisso, o objetivo desse projeto é consolidar e tratar os registros de 
 
 ## Modelo Conceitual Preliminar
 
-> Coloque aqui a imagem do modelo conceitual preliminar em ER ou UML, como o exemplo a seguir:
 > ![Conceitual](assets/conceitual.png)
 
 ## Modelos Lógicos Preliminares
