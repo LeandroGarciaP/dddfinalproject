@@ -46,11 +46,9 @@ Campeonato(_Nome_, _Ano_, Campeão, Vice)
   Vice chave estrangeira -> Clube,
 ~~~
 
-> Para o modelo de grafos de propriedades, utilize este
-> [modelo de base](https://docs.google.com/presentation/d/10RN7bDKUka_Ro2_41WyEE76Wxm4AioiJOrsh6BRY3Kk/edit?usp=sharing) para construir o seu.
-> Coloque a imagem do PNG do seu modelo lógico como ilustrado abaixo (a imagem estará na pasta `image`):
->
-> ![Modelo Lógico de Grafos](images/modelo-logico-grafos.png)
+
+### Grafo de Propriedades
+> ![Modelo Lógico de Grafos](assets/grafo_propriedades.png)
 
 
 ## Dataset Preliminar a ser Publicado
@@ -68,7 +66,9 @@ título do arquivo/base | link | breve descrição
 
 título da base | link | breve descrição
 ----- | ----- | -----
-`<título da base>` | `<link para a página da base>` | `<breve descrição da base>`
+`Ogol` | [www.ogol.com.br](https://www.ogol.com.br/) | `Um site com infomações de competições de futebol nacional e internacional. Mais importante, com o histórico de todos os torneios nacionais desde 1959. A técnica utilizada para extração de dados será o web scrapping com auxílio de bibliotecas do python.`
+`Brasileirão Dataset` | [github.com/adaoduque/Brasileirao_Dataset](https://github.com/adaoduque/Brasileirao_Dataset) | `Dataset aberto independente com as partidas do campeonato brasileiro no período de pontos corridos. Os dados precisam passar por tratamento para se adequar ao modelo proposto pelo grupo, que acredita ser mais adequado pois simplifica as tabelas ao mesmo tempo que acomoda mais informações.`
+`Wikipedia` | [wikipedia.com](www.wikipedia.com) | `Informações dos clubes e suas participações nos torneios nacionais serão extraídas aqui utilizando web scrapping e bibliotecas do python.`
 
 ## Operações realizadas para a construção do dataset
 
