@@ -2,7 +2,7 @@
 
 # Equipe `Dupla de Dois` - `DDD`
 * `Gustavo Mantellatto Elias` - `169366`
-* `Leandro Garcia` - `178258`
+* `Leandro Garcia Pereira` - `178258`
 
 ## Resumo do Projeto
 O Campeonato Brasileiro de Futebol é a principal competição de futebol entre clubes no país. O torneio que é hoje realizado anualmente e disputado por 20 times em um sistema de pontos corridos enfrentou diversos obstáculos para sua realização e passou por vários formatos até se tornar o que é hoje. Desde sua primeira edição em 1959, quando recebeu o nome de Taça Brasil, o torneio foi sendo disputado anualmente e incorporando mudanças ao longo do caminho, sendo a última delas em 2003, quando adotou o modelo vigente. Os nomes oficiais do Campeonato Brasileiro ao longo do tempo foram:
@@ -24,7 +24,7 @@ Pensando nisso, o objetivo desse projeto é consolidar e tratar os registros de 
 
 
 ## Slides da Apresentação
-> Coloque aqui o link para o PDF da apresentação final
+> [Slides](https://github.com/LeandroGarciaP/dddfinalproject/blob/main/final/assets/Apresenta%C3%A7%C3%A3o%20MC536.pdf)
 
 ## Modelo Conceitual
 
@@ -251,10 +251,10 @@ PARTIDA('ID;Rodada;Data;Horário;Dia;Mandante;Visitante;Mandante Placar;Visitant
 >     
 
 #### Pergunta/Análise 3
-> * Considerando a pandemia de covid, houve uma grande diferença d
+> * Considerando a pandemia de covid, houve uma grande diferença de desempenho ao jogar sem torcida?
 >   
->   * Explicação sucinta da análise que será feita e conjunto de queries que
->     responde à pergunta.
+>   * Para essa análise podemos utilizar a mesma query exemplificada na pergunta 2, mas envolvendo cada um dos clubes que disputaram a edição 2020 do Campeonato.
+>   Com isso, basta comparar os valores de aproveitamento obtidos na questão anterior e comparar especificamente com o ano de 2020.
 
 ### Perguntas/Análise Propostas mas Não Implementadas
 
