@@ -50,7 +50,18 @@ Campeonato(_Nome_, _Ano_, Inicio, Fim)
 
 título do arquivo/base | link | breve descrição
 ----- | ----- | -----
-`<título do arquivo/base>` | `<link para arquivo/base>` | `<breve descrição do arquivo/base>`
+`Partidas - Taça Brasil (1959 - 1968) .csv` | [Taça Brasil (1959 - 1968)](https://github.com/LeandroGarciaP/dddfinalproject/blob/main/final/data/processed/Partidas%20-%20Ta%C3%A7a%20Brasil%20(1959%20-%201968)%20.csv) | `Partidas Disputadas pela Taça Brasil`
+`Partidas - Roberto Gomes Pedrosa (1967) ` | [1967](https://github.com/LeandroGarciaP/dddfinalproject/blob/main/final/data/processed/Partidas%20-%20Roberto%20Gomes%20Pedrosa%20(1967)%20-%20Consolidado.csv) | `Partidas do ano de 1967`
+`Partidas - Taça de Prata (1968 - 1970).csv` | [Taça de Prata](https://github.com/LeandroGarciaP/dddfinalproject/blob/main/final/data/processed/Partidas%20-%20Ta%C3%A7a%20de%20Prata%20(1968%20-%201970).csv) | `<Partidas da Taça de Prata>`
+`Partidas - Campeonato Nacional de Clubes (1971 - 1974).csv` | [Campeonato Nacional de Clubes](https://github.com/LeandroGarciaP/dddfinalproject/blob/main/final/data/processed/Partidas%20-%20Campeonato%20Nacional%20de%20Clubes%20(1971%20-%201974).csv) | `Partidas do Campeonato Nacional de Clubes`
+`Partidas - Partidas - CopaBrasil 1975-1978.csv` | [Copa Brasil](https://github.com/LeandroGarciaP/dddfinalproject/blob/main/final/data/processed/Partidas%20-%20CopaBrasil%201975-1978.csv) | `<Partidas da Copa Brasil>`
+`<Partidas - Brasileiro (1979).csv>` | [1979](https://github.com/LeandroGarciaP/dddfinalproject/blob/main/final/data/processed/Partidas%20-%20Brasileiro%20(1979).csv) | `Partidas de 1979`
+`Partidas - Copa Brasil (1980, 1984, 1986).csv` | [Copa Brasil](https://github.com/LeandroGarciaP/dddfinalproject/blob/main/final/data/processed/Partidas%20-%20Copa%20Brasil%20(1980%2C%201984%2C%201986).csv) | `Partidas da Copa Brasil (1980, 1984, 1986)`
+`Partidas - Copa União (1987-1988).csv` | [Copa União](https://github.com/LeandroGarciaP/dddfinalproject/blob/main/final/data/processed/Partidas%20-%20Copa%20Uni%C3%A3o%20(1987-1988).csv) | `Partidas da Copa União`
+`Partidas - Brasileiro (1989).csv` | [1989](https://github.com/LeandroGarciaP/dddfinalproject/blob/main/final/data/processed/Partidas%20-%20Brasileiro%20(1989).csv) | `Partidas de 1989`
+  `Partidas - Campeonato Brasilieiro Série A (1990 - 1999).csv` | [Serie A](https://github.com/LeandroGarciaP/dddfinalproject/blob/main/final/data/processed/Partidas%20-%20Campeonato%20Brasilieiro%20S%C3%A9rie%20A%20(1990%20-%201999).csv) | `Partidas Serie A`
+`Partidas - Campeonato Brasileiro (2000 - 2021).csv` | [Brasileirão](https://github.com/LeandroGarciaP/dddfinalproject/blob/main/final/data/processed/Partidas%20-%20Campeonato%20Brasileiro%20(2000%20-%202021).csv) | `Pontos Corridos
+`clubes_final.csv` | [Clubes](https://github.com/LeandroGarciaP/dddfinalproject/blob/main/final/data/processed/clubes_final.csv) | `Lista de Clubes`
 
 > Os arquivos finais do dataset publicado devem ser colocados na pasta `data`, em subpasta `processed`. Outros arquivos serão colocados em subpastas conforme seu papel (externo, interim, raw). A diferença entre externo e raw é que o raw é em formato não adaptado para uso. A pasta `raw` é opcional, pois pode ser substituída pelo link para a base original da seção anterior.
 > Coloque arquivos que não estejam disponíveis online e sejam acessados pelo notebook. Relacionais (usualmente CSV), XML, JSON e CSV ou triplas para grafos.
