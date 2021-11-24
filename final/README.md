@@ -78,23 +78,127 @@ título do arquivo/base | link | breve descrição
 
 título da base | link | breve descrição
 ----- | ----- | -----
-`<título da base>` | `<link para a página da base>` | `<breve descrição da base>`
+`Ogol` | [www.ogol.com.br](https://www.ogol.com.br/) | `Um site com infomações de competições de futebol nacional e internacional. Mais importante, com o histórico de todos os torneios nacionais desde 1959. A técnica utilizada para extração de dados será o web scrapping com auxílio de bibliotecas do python.`
+`Brasileirão Dataset` | [github.com/adaoduque/Brasileirao_Dataset](https://github.com/adaoduque/Brasileirao_Dataset) | `Dataset aberto independente com as partidas do campeonato brasileiro no período de pontos corridos. Os dados precisam passar por tratamento para se adequar ao modelo proposto pelo grupo, que acredita ser mais adequado pois simplifica as tabelas ao mesmo tempo que acomoda mais informações.`
+`Wikipedia` | [wikipedia.com](www.wikipedia.com) | `Informações dos clubes e suas participações nos torneios nacionais serão extraídas aqui utilizando web scrapping e bibliotecas do python.`
 
 ## Detalhamento do Projeto
-> Apresente aqui detalhes do processo de construção do dataset e análise. Nesta seção ou na seção de Perguntas podem aparecer destaques de código como indicado a seguir. Note que foi usada uma técnica de highlight de código, que envolve colocar o nome da linguagem na abertura de um trecho com `~~~`, tal como `~~~python`.
-> Os destaques de código devem ser trechos pequenos de poucas linhas, que estejam diretamente ligados a alguma explicação. Não utilize trechos extensos de código. Se algum código funcionar online (tal como um Jupyter Notebook), aqui pode haver links. No caso do Jupyter, preferencialmente para o Binder abrindo diretamente o notebook em questão.
+> A inspiração para o desenvolvimento do projeto se deu justamente pelo fato da ausência de dados estruturados dos campeonatos alvo, sendo assim, sua construção teve como base a extração de dados de páginas não estruturadas. Para isso, o grupo utilizou da técnica de `Web scrapping` para recuperar as informações desejadas dos sites utilizados como fonte. 
 
+### Método de Extração da Tabela de Clubes da Wikipédia (scrapwiki.py)
+> Através Wikipédia, obtemos uma tabela com todos os clubes que disputaram um campeonato nacional pelo menos uma vez desde 1959, bem como a quantidade de vezes que a disputaram e suas respectivas promoções / rebaixamentos à outras divisões.
 ~~~python
-df = pd.read_excel("/content/drive/My Drive/Colab Notebooks/dataset.xlsx");
-sns.set(color_codes=True);
-sns.distplot(df.Hemoglobin);
-plt.show();
+wiki_url = 'https://pt.wikipedia.org/wiki/Participa%C3%A7%C3%B5es_dos_clubes_no_Campeonato_Brasileiro_de_Futebol'
+
+name = 'wikitable sortable'
+
+response = requests.get(wiki_url)
+
+soup = BeautifulSoup(response.text, 'html.parser')
+
+#tabela dos clubes
+teams_table = soup.find('table',{'class':name})
 ~~~
 
-> Se usar Orange para alguma análise, você pode apresentar uma captura do workflow, como o exemplo a seguir e descrevê-lo:
-![Workflow no Orange](images/orange-zombie-meals-prediction.png)
 
-> Coloque um link para o arquivo do notebook, programas ou workflows que executam as operações que você apresentar.
+> Também extraímos da Wikipédia as referências aos clubes para serem usadas posteriormente como consultas à uma fonte estruturada como a DBPedia, essas consultas resultaram na coleta de informações complementares que auxiliaram a construir nossa tabela de Clubes.
+
+~~~python
+#cria lista com todos os links da tabela
+for a in teams_table.find_all('a', href=True):
+    if a.text:
+        links.append(a['href'])
+~~~
+~~~python
+#limpa a lista deixando apenas a parte que interessa dos links e apenas dos clubes
+for i in range(4, len(links), 2):
+    concepts.append(links[i][6:])      #retira os 6 primeiros char da lista "links"
+~~~
+> De posse dos links, exportamos para um arquivo csv que posteriormente será usado para realizar as consultas à DBPedia.
+
+~~~python
+dict = {'Reference': concepts}
+df1 = pd.DataFrame(dict)
+df1.to_csv('dbconcepts.csv', index=False)
+~~~
+> Ao final da execução, teremos o arquivo `clubes_raw.csv` contendo os dados da tabela bruta, dois arquivos `links_v0.csv` e `links_v1.csv` (contidos dentro de '/data/raw') sendo o primeiro sem nenhum tratamento e o segundo com a adição de um link faltante no site e remoção de comentários que integravam a tabela. Por fim, o arquivo `dbconcepts.csv` ('/data/external') é criado com as referências a serem utilizadas para busca dos recursos posteriormente na DBPedia.
+
+<br>
+
+### Método de Consulta à DBPedia (dbpediascrap.py)
+> Nesse modelo, utilizamos os 521 `concepts` extraídos da tabela da Wikipédia no modelo _scrapWiki_ para realizar consultas individuais à DBPedia, a fim de recuperar informações complementares a respeito de todos os clubes da tabela.
+
+> Aqui, as 521 consultas buscavam encontrar, para cada clube, seu `Nome Completo`, `Apelido` e `Data de Fundação`, sendo a maioria das consultas bem sucedidas. Dois problemas foram encontrados durante o procedimento de extração de dados:
+> * Página da DBPedia com arquivo JSON corrompido: "SyntaxError: JSON.parse"
+> * Página do recurso encontrada mas incorreta ou sem as informações
+> 
+> Nesses casos, o modelo apenas continua a consulta preenchendo as informações do respectivo clube com "-"
+
+~~~python
+#Laço percorrendo todos os recursos da DBPedia e obtendo as infos desejadas
+for i in range(0, len(teams)):
+    flag = True
+    url_template = "http://dbpedia.org/data/{concept}.{format}"
+    concept = teams[i]
+    format = "jsod"
+    concept = concept.replace(" ", "_")
+    url = url_template.replace("{concept}", concept).replace("{format}", format)
+    data = requests.get(url)
+~~~
+
+
+> Ao final da execução, um arquivo csv `'dbpedia_scrap.csv'`('/data/interm/') é gerado com os dados recuperados, ele será unido junto ao `clubes_raw.csv`.
+
+<br>
+
+### Método de Extração das Partidas (Modelo Web Scraping.py)
+> É aqui que se concentra a maior quantidade de dados extraída, a tabela html da fonte de extração de dados era consideravelmente mais complexa do que a encontrada na Wikipédia, além disso, o site também possuia um mecanismo para realizar bloqueios quando muitos acessos seguidos eram realizados.
+
+~~~python
+for url in urls:
+    browser = webdriver.Chrome('C:\chromedriver.exe')
+    browser.get(url)
+    time.sleep(3)
+    browser.refresh()
+    html = browser.page_source
+    soup = BeautifulSoup(html,'html.parser')
+    time.sleep(5)
+    browser.close()
+    gdp = soup.find_all("table", attrs={"class": "zztable stats"})
+    table1 = gdp[0]
+    body = table1.find_all("tr")
+    head = body[0]
+    body_rows = body[1:]
+    headings = []
+~~~
+
+
+### Arquivos Utilizados para tratamento de Dados:
+* `clubes_join.py`: Unificação dos arquivos csv contendo informações dos clubes que disputaram os campeonatos cobertos pelo banco.
+* `trat_brasileirao.py`: tratamento dos dados obtidos no github para os campeonatos de 2000-2021.
+
+#### Tratamento Clubes (clubes_join.py)
+Aqui, o objetivo é unificar as duas tabelas com informações dos clubes extraídas da Wikipédia e da DBPedia, para isso, foi utilizada a biblioteca pandas para criação e concatenação dos dataframes, além das alterações no nome e ordenaçao das colunas.
+
+#### Tratamento Partidas (trat_brasileirao.py)
+Essa rotina trata os arquivos obtivos através do dataset público do github utilizado como fonte, aqui o tratamento ocorreu da seguinte forma:
+
+**Expansão das Colunas do DataFrame:** O dataframe original encontra-se apenas uma coluna e todos os dados de uma partida concentrados em uma única célula, o objetivo passa a ser expandir esse conteúdo de forma a facilitar sua manipulação e visualização.
+
+~~~python
+df_brasileirao[['ID', 'Rodada', 'Data', 'Horário', 'Dia', 'Mandante', 'Visitante', 
+    'Vencedor', 'Arena', 'Mandante Placar', 'Visitante Placar', 'Estado Mandante', 
+        'Estado Visitante', 'Estado Vencedor']] = df_brasileirao['ID;Rodada;Data;Horário;Dia;Mandante;Visitante;Vencedor;Arena;Mandante Placar;Visitante Placar;Estado Mandante;Estado Visitante;Estado Vencedor'].str.split(';', expand=True)
+~~~
+
+
+**Deleção das Células Antigas:** Uma vez expandido, a informação em formato menos otimizado pode ser removida.
+
+**Deleção de Informação Redundante:** Colunas com informações redundantes que podem ser obtidas através de queries, como `Estado`, `Clube Vencedor` foram removidas a fim de otimizar a utilização de espaço dos dados.
+
+**Renomeação de Colunas:** Para seguir o padrão do restante do banco de dados, as colunas foram renomeadas.
+
+
 
 > Aqui devem ser apresentadas as operações de construção do dataset:
 * extração de dados de fontes não estruturadas como, por exemplo, páginas Web
