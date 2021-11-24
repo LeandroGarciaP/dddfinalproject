@@ -24,7 +24,7 @@ Pensando nisso, o objetivo desse projeto é consolidar e tratar os registros de 
 
 
 ## Slides da Apresentação
-> [Slides](https://github.com/LeandroGarciaP/dddfinalproject/blob/main/final/assets/Apresenta%C3%A7%C3%A3o%20MC536.pdf)
+> Coloque aqui o link para o PDF da apresentação final
 
 ## Modelo Conceitual
 
@@ -254,7 +254,7 @@ PARTIDA('ID;Rodada;Data;Horário;Dia;Mandante;Visitante;Mandante Placar;Visitant
 >     
 
 #### Pergunta/Análise 3
-> * Pergunta 3
+> * Considerando a pandemia de covid, houve uma grande diferença d
 >   
 >   * Explicação sucinta da análise que será feita e conjunto de queries que
 >     responde à pergunta.
@@ -274,8 +274,9 @@ PARTIDA('ID;Rodada;Data;Horário;Dia;Mandante;Visitante;Mandante Placar;Visitant
 >   número de títulos de cada um, conseguiríamos fazer esse tipo de análise.
 
 #### Pergunta/Análise 3
-> * Pergunta 3
+> * Maior número de vitórias em partidas na história equivale a maior número de títulos?
 >   
->   * Explicação em linhas gerais de como a base pode ser usada para responder esta pergunta e a sua relevância.
+>   * Podemos fazer um cruzamento dos dados de vitórias de um clube ao longo da história e compará-lo ao seu número de títulos. Será que necessariamente o que tem mais vitórias
+>   é o maior campeão? Como o número de títulos é um dado do nosso dataset, bastaria contabilizar as vitórias de cada clube para fechar a observação.
 
-> ![Requisições](
+> [Requisições](https://github.com/LeandroGarciaP/dddfinalproject/blob/main/final/notebooks/Requisi%C3%A7%C3%B5es%20e%20queries.ipynb)
