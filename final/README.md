@@ -198,21 +198,25 @@ df_brasileirao[['ID', 'Rodada', 'Data', 'Horário', 'Dia', 'Mandante', 'Visitant
 
 **Renomeação de Colunas:** Para seguir o padrão do restante do banco de dados, as colunas foram renomeadas.
 
-
-
-> Aqui devem ser apresentadas as operações de construção do dataset:
-* extração de dados de fontes não estruturadas como, por exemplo, páginas Web
-* agregação de dados fragmentados obtidos a partir de API
-* integração de dados de múltiplas fontes
-* tratamento de dados
-* transformação de dados para facilitar análise e pesquisa
-
-> Se for notebook, ele estará dentro da pasta `notebook`. Se por alguma razão o código não for executável no Jupyter, coloque na pasta `src` (por exemplo, arquivos do Orange ou Cytoscape). Se as operações envolverem queries executadas atraves de uma interface de um SGBD não executável no Jupyter, como o Cypher, apresente na forma de markdown.
+<br>
 
 ## Evolução do Projeto
-> Relatório de evolução, descrevendo as evoluções na modelagem do projeto, dificuldades enfrentadas, mudanças de rumo, melhorias e lições aprendidas. Referências aos diagramas, modelos e recortes de mudanças são bem-vindos.
-> Podem ser apresentados destaques na evolução dos modelos conceitual e lógico. O modelo inicial e intermediários (quando relevantes) e explicação de refinamentos, mudanças ou evolução do projeto que fundamentaram as decisões.
-> Relatar o processo para se alcançar os resultados é tão importante quanto os resultados.
+> Desde o início do desenvolvimento do projeto, estava bem claro que um dos modelos utilizados seria o relacional, seja pela associatividade quase que imediata do próprio tema do projeto com um sistema de tabelas, ou pelo maior detalhamento que esse modelo recebeu em sala, possibilitando com que nos sentissemos mais à vontade ao utilizá-lo. Porém sua construção sofreu alterações no decorrer do desenvolvimento, de início, foi projetado um modelo simples com apenas uma entidade, que agragaria todas as informações extraída:
+
+~~~
+PARTIDA('ID;Rodada;Data;Horário;Dia;Mandante;Visitante;Mandante Placar;Visitante Placar;Estado Mandante;Estado Visitante;)
+~~~
+
+>Mas percebemos que a criação de outras entidades nos possibilitaria além de simplificar a visualização, enriquecer a nossa base de dados com informações relevantes. Uma entidade dedicada à todos os clubes permitiria que além de seu estado de origem, o nosso dataset pudesse guardar sua cidade, sua data de fundação e suas participações/promoções/delegações à outras divisões. 
+> Durante a fase de extração de dados,todo o processo serviu como um grande aprendizado ao grupo. A técnica de Web scrapping não era familiar aos integrantes no início do desenvolvimento e conhecê-la e aplicá-la na pŕatica foi sem dúvida uma experiência positiva. Porém, enfrentamos algumas dificuldades nessa etapa que acabou resultado em um atraso do grupo: A página web de onde tentávamos extrair as informações possuía sistemas restritivos como a obrigatoriedade da aceitação dos cookies e um bloqueio à acessos consecutivos. Superar essa situação foi um desafio recompensador.
+
+
+> O segundo modelo lógico a ser utilizado também sofreu mudanças, de início o grupo optou por entrar no modelo de grafos, mas sentiu dificuldades tanto em modela-lo quanto em utlizá-lo propriamente, aproveitando de suas vantagens.
+ 
+> ![Grafo](assets/grafo_propriedades.png)
+> Antigo modelo de um grafo de propriedades proposto.
+
+<br>
 
 ## Perguntas de Pesquisa/Análise Combinadas e Respectivas Análises
 
