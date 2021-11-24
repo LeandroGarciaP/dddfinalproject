@@ -55,7 +55,7 @@ Essa rotina trata os arquivos obtivos através do dataset público do github uti
 
 ***
 # Instalação
-Para a utilização das rotinas disponibilizadas aqui, basta realizar a importação (ou instalação) de suas respectivas bibliotecas
+> Para a utilização das rotinas disponibilizadas aqui, basta realizar a importação (ou instalação) de suas respectivas bibliotecas
 ~~~
 pip install <biblioteca>
 ~~~
