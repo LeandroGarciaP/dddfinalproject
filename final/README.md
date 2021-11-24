@@ -225,16 +225,37 @@ PARTIDA('ID;Rodada;Data;Horário;Dia;Mandante;Visitante;Mandante Placar;Visitant
 > ![Comunidade no Cytoscape](images/cytoscape-comunidade.png)
 
 #### Pergunta/Análise 1
-> * Pergunta 1
+> * Qual o time com maior número de gols marcados/sofridos na história do Campeonato Brasileiro?
 >   
->   * Explicação sucinta da análise que será feita e conjunto de queries que
->     responde à pergunta.
+>   * Essa pergunta pode ser respondida ao somar todos os placares como mandante/visitante, agrupando com a ferramenta groupby do Pandas para cada Clube.
+>   ~~~python
+>      gols_mandante_clube = df.groupby('mandante')['placar_mandante'].sum().sort_values(ascending=False).reset_index()
+>      gols_mandante_clube.rename(columns  = {"mandante" : "clube", 'placar_mandante' : 'gols' }, inplace=True)
+>      gols_visitante_clube = df.groupby('visitante')['placar_visitante'].sum().sort_values(ascending=False).reset_index()
+>      gols_visitante_clube.rename(columns = {"visitante": "clube", 'placar_visitante': 'gols' }, inplace=True)
+>      gols_clube = pd.concat([gols_mandante_clube,gols_visitante_clube])
+>      gols_marcados_clube = gols_clube.groupby('clube')['gols'].sum().sort_values(ascending=False).reset_index()
+>      ~~~
+>     Com isso, temos o resultado a seguir:
+>     ![Gráfico](https://github.com/LeandroGarciaP/dddfinalproject/blob/main/final/images/Mais%20gols%20feitos.png)
+>     ![Tabela](https://github.com/LeandroGarciaP/dddfinalproject/blob/main/final/images/Mais%20gols%20sofridos.png)
+> 
+>     
 
 #### Pergunta/Análise 2
-> * Pergunta 2
->   
->   * Explicação sucinta da análise que será feita e conjunto de queries que
->     responde à pergunta.
+> * Qual o desempenho de um Clube como mandante/visitante em toda a história do Campeonato Brasileiro?
+>   Essa pergunta é possível de ser respondida pois podemos utilizar primeiramente as queries para Mandante e ir aumentando os filtros conforme desejado, como por exemplo
+>   com relação as vitórias. Portanto, para buscar uma informação específica sobre um clube basta utilizar uma sequência de queries semelhantes a seguinte:
+>   ~~~~python
+>   fec = df.query('mandante=="Fortaleza"')
+>   fecvit = df.query('mandante=="Fortaleza" & placar_mandante>placar_visitante')
+>   ~~~~
+>   Após essas 2 requisições, além de poder ver todos os placares de vitória do time Fortaleza, também é possível verificar que ele venceu 113 das suas 240 partidas como
+>   mandante (resultados das queries) e, portanto, tem 47% de vitórias jogando em casa.
+>   A seguir, a tabela com "todas" as vitórias do Fortaleza:
+>   ![Fortaleza](https://github.com/LeandroGarciaP/dddfinalproject/blob/main/final/images/Todas%20as%20vit%C3%B3rias%20do%20fortaleza.png)
+>   * 
+>     
 
 #### Pergunta/Análise 3
 > * Pergunta 3
@@ -245,18 +266,21 @@ PARTIDA('ID;Rodada;Data;Horário;Dia;Mandante;Visitante;Mandante Placar;Visitant
 ### Perguntas/Análise Propostas mas Não Implementadas
 
 #### Pergunta/Análise 1
-> * Pergunta 1
+> * Probabilidade de ser campeão
 >   
->   * Explicação em linhas gerais de como a base pode ser usada para responder esta pergunta e a sua relevância.
+>   * Considerando a disputa do campeonato por meio de pontos corridos, é possível fazer uma predição de quais as chances um time tem de ser campeão de acordo com a sua
+>   atual pontuação e com uma comparação com os campeões dos anos anteriores.
 
 #### Pergunta/Análise 2
-> * Pergunta 2
+> * Número de títulos por região
 >   
->   * Explicação em linhas gerais de como a base pode ser usada para responder esta pergunta e a sua relevância.
+>   * É possível responder a essa pergunta fazendo um tratamento diferente nos dados e definindo o conceito de "região". Como temos a localidade de todos os clubes, além do
+>   número de títulos de cada um, conseguiríamos fazer esse tipo de análise.
 
 #### Pergunta/Análise 3
 > * Pergunta 3
 >   
 >   * Explicação em linhas gerais de como a base pode ser usada para responder esta pergunta e a sua relevância.
 
+> ![Requisições](
 > Coloque um link para o arquivo do notebook que executa o conjunto de queries. Ele estará dentro da pasta `notebook`. Se por alguma razão o código não for executável no Jupyter, coloque na pasta `src`. Se as queries forem executadas atraves de uma interface de um SGBD não executável no Jupyter, como o Cypher, apresente na forma de markdown.
