@@ -24,7 +24,7 @@ Pensando nisso, o objetivo desse projeto é consolidar e tratar os registros de 
 
 
 ## Slides da Apresentação
-> [Slides](https://github.com/LeandroGarciaP/dddfinalproject/blob/main/final/assets/Apresenta%C3%A7%C3%A3o%20MC536.pdf)
+> Coloque aqui o link para o PDF da apresentação final
 
 ## Modelo Conceitual
 
@@ -46,7 +46,6 @@ Campeonato(_Nome_, _Ano_, Inicio, Fim)
 
 
 ## Dataset Publicado
-> Elencar os arquivos/bases preliminares dos datasets serão publicados.
 
 título do arquivo/base | link | breve descrição
 ----- | ----- | -----
@@ -60,12 +59,9 @@ título do arquivo/base | link | breve descrição
 `Partidas - Copa União (1987-1988).csv` | [Copa União](https://github.com/LeandroGarciaP/dddfinalproject/blob/main/final/data/processed/Partidas%20-%20Copa%20Uni%C3%A3o%20(1987-1988).csv) | `Partidas da Copa União`
 `Partidas - Brasileiro (1989).csv` | [1989](https://github.com/LeandroGarciaP/dddfinalproject/blob/main/final/data/processed/Partidas%20-%20Brasileiro%20(1989).csv) | `Partidas de 1989`
   `Partidas - Campeonato Brasilieiro Série A (1990 - 1999).csv` | [Serie A](https://github.com/LeandroGarciaP/dddfinalproject/blob/main/final/data/processed/Partidas%20-%20Campeonato%20Brasilieiro%20S%C3%A9rie%20A%20(1990%20-%201999).csv) | `Partidas Serie A`
-`Partidas - Campeonato Brasileiro (2000 - 2021).csv` | [Brasileirão](https://github.com/LeandroGarciaP/dddfinalproject/blob/main/final/data/processed/Partidas%20-%20Campeonato%20Brasileiro%20(2000%20-%202021).csv) | `Pontos Corridos
+`Partidas - Campeonato Brasileiro (2000 - 2021).csv` | [Brasileirão](https://github.com/LeandroGarciaP/dddfinalproject/blob/main/final/data/processed/Partidas%20-%20Campeonato%20Brasileiro%20(2000%20-%202021).csv) | `Pontos Corridos`
 `clubes_final.csv` | [Clubes](https://github.com/LeandroGarciaP/dddfinalproject/blob/main/final/data/processed/clubes_final.csv) | `Lista de Clubes`
 
-> Os arquivos finais do dataset publicado devem ser colocados na pasta `data`, em subpasta `processed`. Outros arquivos serão colocados em subpastas conforme seu papel (externo, interim, raw). A diferença entre externo e raw é que o raw é em formato não adaptado para uso. A pasta `raw` é opcional, pois pode ser substituída pelo link para a base original da seção anterior.
-> Coloque arquivos que não estejam disponíveis online e sejam acessados pelo notebook. Relacionais (usualmente CSV), XML, JSON e CSV ou triplas para grafos.
-> Este é o conjunto mínimo de informações que deve constar na disponibilização do Dataset, mas a equipe pode enriquecer esta seção.
 
 ## Bases de Dados
 > Elencar as bases de dados fonte utilizadas no projeto.
@@ -75,6 +71,7 @@ título da base | link | breve descrição
 `Ogol` | [www.ogol.com.br](https://www.ogol.com.br/) | `Um site com infomações de competições de futebol nacional e internacional. Mais importante, com o histórico de todos os torneios nacionais desde 1959. A técnica utilizada para extração de dados será o web scrapping com auxílio de bibliotecas do python.`
 `Brasileirão Dataset` | [github.com/adaoduque/Brasileirao_Dataset](https://github.com/adaoduque/Brasileirao_Dataset) | `Dataset aberto independente com as partidas do campeonato brasileiro no período de pontos corridos. Os dados precisam passar por tratamento para se adequar ao modelo proposto pelo grupo, que acredita ser mais adequado pois simplifica as tabelas ao mesmo tempo que acomoda mais informações.`
 `Wikipedia` | [wikipedia.com](www.wikipedia.com) | `Informações dos clubes e suas participações nos torneios nacionais serão extraídas aqui utilizando web scrapping e bibliotecas do python.`
+`DBPedia` | [dbpedia.org](https://www.dbpedia.org/) | `Informações complementares dos 521 clubes foram extraídas da DBPedia, um projeto que extrai informação estruturada da Wikipedia e disponibiliza na Web.`
 
 ## Detalhamento do Projeto
 > A inspiração para o desenvolvimento do projeto se deu justamente pelo fato da ausência de dados estruturados dos campeonatos alvo, sendo assim, sua construção teve como base a extração de dados de páginas não estruturadas. Para isso, o grupo utilizou da técnica de `Web scrapping` para recuperar as informações desejadas dos sites utilizados como fonte. 
