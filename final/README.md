@@ -28,18 +28,17 @@ Pensando nisso, o objetivo desse projeto é consolidar e tratar os registros de 
 
 ## Modelo Conceitual
 
-> Coloque aqui a imagem do modelo conceitual final em ER ou UML, como o exemplo a seguir:
-> ![ER Taxi](images/er-taxi.png)
+> ![Conceitual](assets/conceitual.png)
 
 ## Modelos Lógicos
 
-> Coloque aqui os modelos lógicos dos bancos de dados relacionados aos modelos conceituais. Para o modelo relacional, sugere-se o formato a seguir. Para outros modelos lógicos, sugere-se aqueles apresentados em sala.
-
-> Exemplo de modelo lógico relacional
+### Relacional
 ~~~
-PESSOA(_Código_, Nome, Telefone)
-ARMÁRIO(_Código_, Tamanho, Ocupante)
-  Ocupante chave estrangeira -> PESSOA(Código)
+CLUBE(_Clube_, Nome Completo, Cidade, UF, Fundação, Serie A, R_a, Serie B, P_b, R_b, Serie C, P_c, R_c, Serie D, P_d)
+PARTIDA(_Data_, _Mandante_, Horario, Visitante, Placar_mandante, Placar_visitante)
+  Mandante chave estrangeira -> Clube,
+  Visitante chave estrangeira -> Clube
+Campeonato(_Nome_, _Ano_, Inicio, Fim)
 ~~~
 
 > Para o modelo de grafos de propriedades, utilize este
