@@ -220,10 +220,6 @@ PARTIDA('ID;Rodada;Data;Horário;Dia;Mandante;Visitante;Mandante Placar;Visitant
 >
 ### Perguntas/Análise com Resposta Implementada
 
-> As respostas às perguntas podem devem ser ilustradas da forma mais rica possível com tabelas resultantes, grafos ou gráficos que apresentam os resultados. Os resultados podem ser analisados e comentados. Veja um exemplo de figura ilustrando uma comunidade detectada no Cytoscape:
-
-> ![Comunidade no Cytoscape](images/cytoscape-comunidade.png)
-
 #### Pergunta/Análise 1
 > * Qual o time com maior número de gols marcados/sofridos na história do Campeonato Brasileiro?
 >   
@@ -283,4 +279,3 @@ PARTIDA('ID;Rodada;Data;Horário;Dia;Mandante;Visitante;Mandante Placar;Visitant
 >   * Explicação em linhas gerais de como a base pode ser usada para responder esta pergunta e a sua relevância.
 
 > ![Requisições](
-> Coloque um link para o arquivo do notebook que executa o conjunto de queries. Ele estará dentro da pasta `notebook`. Se por alguma razão o código não for executável no Jupyter, coloque na pasta `src`. Se as queries forem executadas atraves de uma interface de um SGBD não executável no Jupyter, como o Cypher, apresente na forma de markdown.
