@@ -1,0 +1,521 @@
+UF,Clube,Cidade,Série A,R,Série B,P,R,Série C,P,R,Série D,P
+RS,Grêmio,Porto Alegre,62,2,2,2,–,0,–,–,0,–
+SP,Santos,Santos,61,–,0,–,–,0,–,–,0,–
+MG,Cruzeiro,Belo Horizonte,59,1,2,–,–,0,–,–,0,–
+SP,Palmeiras,São Paulo,58,2,4,3,–,0,–,–,0,–
+MG,Atlético Mineiro,Belo Horizonte,58,1,1,1,–,0,–,–,0,–
+RJ,Botafogo,Rio de Janeiro,56,3,3,2,–,0,–,–,0,–
+RJ,Flamengo,Rio de Janeiro,56,–,0,–,–,0,–,–,0,–
+RJ,Fluminense,Rio de Janeiro,55,1,1,–,1,1,1,–,0,–
+RS,Internacional,Porto Alegre,55,1,1,1,–,0,–,–,0,–
+SP,São Paulo,São Paulo,54,–,0,–,–,0,–,–,0,–
+RJ,Vasco da Gama,Rio de Janeiro,53,4,4,3,–,0,–,–,0,–
+SP,Corinthians,São Paulo,53,1,2,2,–,0,–,–,0,–
+BA,Bahia,Salvador,49,3,10,4,1,2,1,–,0,–
+PR,Athletico Paranaense,Curitiba,45,3,6,4,–,0,–,–,0,–
+PE,Sport,Recife,42,5,12,6,–,0,–,–,0,–
+GO,Goiás,Goiânia,41,6,10,4,–,0,–,–,0,–
+PR,Coritiba,Curitiba,40,6,13,5,–,0,–,–,0,–
+BA,Vitória,Salvador,39,6,11,4,1,1,1,–,0,–
+SP,Portuguesa,São Paulo,35,3,11,2,1,2,–,1,2,–
+PE,Náutico,Recife,34,4,22,4,2,3,2,–,0,–
+SP,Guarani,Campinas,29,3,15,4,2,6,2,–,0,–
+PA,Paysandu,Belém,27,3,18,2,3,11,2,–,0,–
+CE,Ceará,Fortaleza,25,2,30,3,–,0,–,–,0,–
+PE,Santa Cruz,Recife,24,5,20,4,2,7,1,–,3,1
+SP,Ponte Preta,Campinas,24,3,20,3,1,1,–,–,0,–
+CE,Fortaleza,Fortaleza,23,4,18,4,2,14,2,–,0,–
+AL,CSA,Maceió,19,3,11,2,–,13,2,–,5,1
+RJ,America,Rio de Janeiro,19,1,5,1,–,11,–,–,1,–
+MG,América Mineiro,Belo Horizonte,17,6,26,7,1,5,1,–,0,–
+SC,Figueirense,Florianópolis,17,3,13,3,1,9,1,–,0,–
+RS,Juventude,Caxias do Sul,17,1,13,2,2,5,2,1,3,1
+PA,Remo,Belém,16,1,22,3,2,7,2,–,4,1
+PR,Paraná,Curitiba,16,3,15,3,1,2,1,–,0,–
+AM,Nacional-AM,Manaus,16,1,6,–,1,10,–,–,7,–
+RN,América de Natal,Natal,15,3,24,2,4,6,2,1,5,–
+ES,Desportiva Ferroviária [DFE],Cariacica,15,2,15,1,2,2,–,–,2,–
+RN,ABC,Natal,14,–,21,–,4,11,4,1,2,–
+SC,Criciúma,Criciúma,13,4,24,4,4,5,2,–,0,–
+SC,Joinville,Joinville,12,3,20,1,2,8,1,1,4,1
+MA,Sampaio Corrêa,São Luís,12,–,18,–,3,12,4,1,3,1
+GO,Atlético Goianiense,Goiânia,12,2,17,3,1,12,3,–,0,–
+SE,Sergipe,Aracaju,12,–,9,–,3,10,1,–,7,–
+ES,Rio Branco-ES,Vitória,12,–,4,–,–,5,–,–,4,–
+AL,CRB,Maceió,11,–,31,–,2,6,2,–,0,–
+SP,Red Bull Bragantino [RBB],Bragança Paulista,11,2,15,2,2,4,2,–,0,–
+MA,Moto Club,São Luís,11,1,13,–,1,9,–,1,7,1
+RJ,Bangu,Rio de Janeiro,11,1,8,1,1,5,1,–,3,–
+PB,Campinense [CAM],Campina Grande,11,–,7,–,1,9,1,1,9,–
+SC,Avaí,Florianópolis,10,4,23,4,–,4,1,–,0,–
+MS,Operário-MS,Campo Grande,10,–,6,–,–,8,–,–,1,–
+GO,Vila Nova,Goiânia,9,–,23,–,4,9,5,–,0,–
+PB,Treze [TRE],Campina Grande,9,1,9,1,–,15,–,2,6,1
+SC,Chapecoense,Chapecó,9,1,4,2,–,9,1,–,1,1
+RJ,Americano,Campos dos Goytacazes,8,–,20,2,2,5,1,–,1,–
+SE,Confiança,Aracaju,8,–,10,–,–,20,1,1,2,1
+PI,River,Teresina,8,1,10,–,–,9,–,1,5,1
+MT,Mixto,Cuiabá,8,2,6,–,–,5,–,1,3,–
+PR,Londrina,Londrina,7,–,25,1,2,3,2,–,3,1
+SP,São Caetano,São Caetano do Sul,7,1,9,1,1,2,1,1,3,–
+AM,Rio Negro,Manaus,7,–,8,–,–,8,–,–,0,–
+PB,Botafogo-PB,João Pessoa,7,–,5,–,–,18,–,–,1,1
+PI,Flamengo-PI,Teresina,7,–,4,–,–,5,–,–,2,–
+SP,Inter de Limeira,Limeira,7,–,4,–,–,5,–,–,1,–
+DF,Brasília,Brasília,7,–,3,–,–,3,–,–,3,–
+SP,Botafogo-SP,Ribeirão Preto,6,2,16,3,2,7,2,–,3,1
+DF,Gama,Gama,6,2,10,1,2,5,2,1,4,–
+CE,Ferroviário,Fortaleza,6,2,7,–,–,15,–,–,2,1
+PR,Grêmio Maringá,Maringá,6,–,7,–,–,4,–,–,0,–
+MG,Uberaba,Uberaba,6,–,5,–,–,3,–,–,2,–
+RJ,Goytacaz,Campos dos Goytacazes,6,–,5,–,–,1,–,–,0,–
+MS,Comercial-MS,Campo Grande,6,–,4,–,–,6,–,–,3,–
+SE,Itabaiana,Itabaiana,5,1,4,–,–,10,–,–,7,–
+PI,Tiradentes-PI,Teresina,5,–,4,–,–,1,–,–,0,–
+PR,Colorado †,Curitiba,5,–,1,–,–,1,–,–,0,–
+SC,Metropol †,Criciúma,5,–,0,–,–,0,–,–,0,–
+PA,Tuna Luso,Belém,4,–,14,1,2,7,1,–,0,–
+GO,Anapolina,Anápolis,4,–,13,1,1,3,1,–,4,–
+RS,Caxias,Caxias do Sul,4,–,11,–,1,16,1,1,5,–
+RS,Brasil de Pelotas,Pelotas,4,–,9,–,–,14,2,1,2,1
+SP,União São João †,Araras,4,2,9,2,2,3,–,–,0,–
+MG,Uberlândia,Uberlândia,4,–,6,1,–,8,–,–,3,–
+BA,Fluminense de Feira,Feira de Santana,4,–,6,–,–,6,–,–,6,–
+MT,CEOV,Várzea Grande,4,–,5,–,–,2,–,–,3,–
+GO,Goiânia,Goiânia,4,–,4,–,–,6,–,–,1,–
+PI,Piauí,Teresina,4,–,2,–,–,2,–,–,0,–
+SP,XV de Piracicaba,Piracicaba,3,–,12,–,1,3,1,–,1,–
+RJ,Volta Redonda,Volta Redonda,3,–,8,–,1,14,1,–,4,1
+MA,Maranhão,São Luís,3,–,8,–,–,4,–,–,4,–
+BA,Leônico [LEO] †,Simões Filho,3,–,4,–,–,0,–,–,0,–
+MG,Villa Nova,Nova Lima,3,–,3,–,–,11,1,–,7,–
+AM,Fast Clube,Manaus,3,–,2,–,–,4,–,–,4,–
+RN,Alecrim,Natal,3,–,2,–,–,3,–,1,2,1
+RS,São Paulo-RS,Rio Grande,3,–,2,1,–,0,–,–,2,–
+MT,Dom Bosco,Cuiabá,3,–,1,–,–,1,–,–,1,–
+DF,CEUB †,Brasília,3,–,0,–,–,0,–,–,0,–
+PR,Ferroviário-PR †,Curitiba,3,–,0,–,–,0,–,–,0,–
+RJ,Fonseca †,Niterói,3,–,0,–,–,0,–,–,0,–
+DF,Rabello †,Brasília,3,–,0,–,–,0,–,–,0,–
+PE,Central,Caruaru,2,–,18,1,2,5,–,–,11,–
+SP,Santo André,Santo André,2,1,9,1,1,10,1,1,2,–
+SP,América de Rio Preto,São José do Rio Preto,2,–,6,1,1,7,–,–,0,–
+RJ,Campo Grande,Rio de Janeiro,2,–,5,1,–,5,–,–,0,–
+SP,Grêmio Barueri [GBA] †,Barueri,2,1,4,1,1,2,1,1,1,–
+PR,Pinheiros †,Curitiba,2,–,4,–,–,0,–,–,0,–
+SP,São José-SP,São José dos Campos,2,1,3,1,–,2,–,–,0,–
+BA,Itabuna,Itabuna,2,–,3,–,–,1,–,–,0,–
+SP,Comercial,Ribeirão Preto,2,–,2,–,–,4,–,–,0,–
+BA,Galícia,Salvador,2,1,1,–,–,3,–,–,1,–
+AL,Capelense †,Capela,2,–,1,–,–,2,–,–,0,–
+RJ,Olaria,Rio de Janeiro,2,–,0,–,–,5,–,–,0,–
+SP,XV de Jaú,Jaú,2,–,0,–,–,1,–,–,0,–
+SE,Santa Cruz-SE †,Estância,2,–,0,–,–,0,–,–,0,–
+ES,Santo Antônio †,Vitória,2,–,0,–,–,0,–,–,0,–
+SP,Juventus-SP,São Paulo,1,1,12,–,1,7,1,–,0,–
+BA,Catuense †,Catu,1,–,8,–,–,9,–,–,0,–
+RS,Novo Hamburgo,Novo Hamburgo,1,–,8,–,–,3,–,–,3,–
+AL,ASA,Arapiraca,1,–,7,–,1,13,1,1,3,–
+DF,Brasiliense,Taguatinga,1,1,7,1,1,5,1,1,5,–
+PR,Operário-PR,Ponta Grossa,1,–,7,–,–,2,1,–,4,1
+GO,Itumbiara,Itumbiara,1,–,5,–,–,7,–,–,3,–
+DF,Taguatinga,Taguatinga,1,–,5,–,–,3,–,–,0,–
+MG,Ipatinga [IPA],Ipatinga,1,1,4,1,2,9,2,1,1,–
+SP,Noroeste,Bauru,1,–,4,–,–,5,–,–,0,–
+SP,São Bento,Sorocaba,1,–,4,–,1,3,1,–,2,1
+GO,Anápolis,Anápolis,1,–,3,–,–,8,–,–,2,–
+ES,Vitória-ES,Vitória,1,–,3,–,–,4,–,–,2,–
+SP,Ferroviária,Araraquara,1,–,3,–,1,3,1,–,4,–
+ES,AA Colatina †,Colatina,1,–,3,–,–,3,–,–,0,–
+DF,Guará †,Guará,1,–,3,–,–,2,–,–,0,–
+DF,Sobradinho,Sobradinho,1,–,3,–,–,1,–,–,2,–
+MT,Cuiabá,Cuiabá,1,–,2,1,–,9,1,–,1,1
+RS,Inter de Santa Maria,Santa Maria,1,–,2,–,–,4,–,–,0,–
+PB,Auto Esporte-PB,João Pessoa,1,–,2,–,–,3,–,–,0,–
+PR,J.Malucelli [JMA] †,Curitiba,1,–,1,–,–,3,–,–,3,–
+MG,Caldense,Poços de Caldas,1,–,1,–,–,1,–,–,7,–
+MS,Corumbaense,Corumbá,1,–,1,–,–,1,–,–,2,–
+PI,Auto Esporte-PI †,Teresina,1,–,1,–,–,0,–,–,0,–
+MA,Ferroviário-MA †,São Luís,1,–,1,–,–,0,–,–,0,–
+RN,Potiguar de Mossoró,Mossoró,1,–,0,–,–,10,–,–,5,–
+SP,Francana,Franca,1,–,0,–,–,5,–,–,0,–
+SE,América de Propriá,Propriá,1,–,0,–,–,1,–,–,0,–
+RJ,Rio Branco-RJ †,Campos dos Goytacazes,1,–,0,–,–,1,–,–,0,–
+SC,Inter de Lages,Lages,1,–,0,–,–,0,–,–,4,–
+SC,Hercílio Luz,Tubarão,1,–,0,–,–,0,–,–,1,–
+PR,Água Verde †,Curitiba,1,–,0,–,–,0,–,–,0,–
+CE,América-CE,Fortaleza,1,–,0,–,–,0,–,–,0,–
+PR,Comercial-PR †,Cornélio Procópio,1,–,0,–,–,0,–,–,0,–
+DF,Cruzeiro do Sul †,Cruzeiro,1,–,0,–,–,0,–,–,0,–
+DF,Defelê †,Brasília,1,–,0,–,–,0,–,–,0,–
+RJ,Eletrovapo †,Niterói,1,–,0,–,–,0,–,–,0,–
+PB,Estrela do Mar †,João Pessoa,1,–,0,–,–,0,–,–,0,–
+DF,Guanabara-DF †,Brasília,1,–,0,–,–,0,–,–,0,–
+RJ,Manufatora †,Niterói,1,–,0,–,–,0,–,–,0,–
+AM,Olímpico-AM †,Manaus,1,–,0,–,–,0,–,–,0,–
+SC,Olímpico-SC †,Blumenau,1,–,0,–,–,0,–,–,0,–
+SC,Paula Ramos †,Florianópolis,1,–,0,–,–,0,–,–,0,–
+SC,Perdigão †,Videira,1,–,0,–,–,0,–,–,0,–
+MG,Siderúrgica †,Sabará,1,–,0,–,–,0,–,–,0,–
+SP,Mogi Mirim,Mogi Mirim,0,–,9,–,3,10,2,1,2,1
+SP,Oeste [OES],Barueri,0,–,8,–,1,2,1,–,2,1
+MG,Boa Esporte [BOA],Varginha,0,–,7,–,2,9,2,–,1,–
+SP,Marília,Marília,0,–,7,–,1,6,1,1,1,–
+AM,São Raimundo-AM,Manaus,0,–,7,–,1,5,1,–,0,–
+SP,Paulista [PTA],Jundiaí,0,–,6,–,1,7,1,–,1,–
+CE,Guarany de Sobral,Sobral,0,–,6,–,1,4,1,1,6,1
+MT,União Rondonópolis,Rondonópolis,0,–,5,–,–,7,–,–,4,–
+GO,Goiatuba,Goiatuba,0,–,5,–,1,1,–,–,0,–
+SP,Ituano,Itu,0,–,4,–,1,9,1,–,5,1
+MT,Luverdense,Lucas do Rio Verde,0,–,4,–,1,9,1,1,0,–
+CE,Icasa,Juazeiro do Norte,0,–,4,–,2,7,2,1,1,–
+SP,Guaratinguetá [GTA] †,Guaratinguetá,0,–,4,–,1,5,1,1,0,–
+RJ,Itaperuna [ITA],Itaperuna,0,–,4,–,–,2,–,–,0,–
+PE,América-PE,Recife,0,–,4,–,–,1,–,–,3,–
+MG,Tupi,Juiz de Fora,0,–,3,–,1,16,1,2,5,2
+AC,Rio Branco-AC,Rio Branco,0,–,3,–,–,11,–,1,7,–
+SC,Marcílio Dias,Itajaí,0,–,3,–,–,8,–,1,4,–
+RN,Baraúnas,Mossoró,0,–,3,–,–,6,–,1,2,1
+SC,Blumenau,Blumenau,0,–,3,–,–,5,–,–,0,–
+RJ,Duque de Caxias,Duque de Caxias,0,–,3,–,1,4,1,1,1,–
+RS,Esportivo,Bento Gonçalves,0,–,3,–,–,3,–,–,1,–
+MS,Ubiratan †,Dourados,0,–,3,–,–,3,–,–,0,–
+PR,Cascavel EC †,Cascavel,0,–,3,–,–,2,–,–,0,–
+SP,GE Novorizontino †,Novo Horizonte,0,–,3,–,1,2,1,–,0,–
+RS,Pelotas,Pelotas,0,–,2,–,–,5,–,–,4,–
+BA,Atlético de Alagoinhas,Alagoinhas,0,–,2,–,–,5,–,–,3,–
+ES,Serra,Serra,0,–,2,–,1,5,1,–,1,–
+MG,Esportivo de Passos †,Passos,0,–,2,–,–,3,–,–,0,–
+MG,Rio Branco-MG †,Andradas,0,–,2,–,–,3,–,–,0,–
+DF,Tiradentes-DF †,Ceilândia,0,–,2,–,1,3,–,–,0,–
+SC,Brusque,Brusque,0,–,2,–,–,2,1,–,6,1
+MG,Valeriodoce †,Itabira,0,–,2,–,–,2,–,–,0,–
+MG,Democrata-GV,Governador Valadares,0,–,2,–,1,1,–,–,0,–
+MT,Barra do Garças †,Barra do Garças,0,–,2,–,1,0,–,–,0,–
+RJ,Bonsucesso,Rio de Janeiro,0,–,2,–,–,0,–,–,0,–
+PE,Ferroviário do Recife †,Recife,0,–,2,–,–,0,–,–,0,–
+RS,Santa Cruz-RS,Santa Cruz do Sul,0,–,2,–,–,0,–,–,0,–
+RJ,Serrano-RJ,Petrópolis,0,–,2,–,–,0,–,–,0,–
+PA,Sport Belém,Belém,0,–,2,–,–,0,–,–,0,–
+PR,União Bandeirante †,Bandeirantes,0,–,1,–,–,10,–,–,0,–
+PE,Salgueiro,Salgueiro,0,–,1,–,1,9,1,2,3,1
+RJ,Macaé,Macaé,0,–,1,–,1,9,1,1,2,1
+MA,Imperatriz [IMP],Imperatriz,0,–,1,–,–,8,–,1,3,1
+ES,Estrela do Norte,Cachoeiro de Itapemirim,0,–,1,–,–,7,–,–,1,–
+PI,Picos,Picos,0,–,1,–,–,5,–,–,1,–
+DF,Ceilândia,Ceilândia,0,–,1,–,–,4,–,–,5,–
+SP,União Barbarense,Santa Bárbara d'Oeste,0,–,1,–,1,4,1,–,0,–
+CE,Icasa EC †,Juazeiro do Norte,0,–,1,–,–,3,–,–,0,–
+PI,Parnahyba,Parnaíba,0,–,1,–,–,2,–,–,3,–
+AC,Independência,Rio Branco,0,–,1,–,–,2,–,–,0,–
+SE,Lagarto EC †,Lagarto,0,–,1,–,–,2,–,–,0,–
+PB,Nacional de Patos,Patos,0,–,1,–,–,2,–,–,0,–
+RJ,AA Cabofriense †,Cabo Frio,0,–,1,–,–,1,–,–,0,–
+MG,Democrata-SL,Sete Lagoas,0,–,1,–,–,1,–,–,0,–
+MS,Douradense †,Dourados,0,–,1,–,–,1,–,–,0,–
+PE,Estudantes †,Timbaúba,0,–,1,–,–,1,–,–,0,–
+RS,Glória,Vacaria,0,–,1,–,–,1,–,–,0,–
+AM,Princesa do Solimões,Manacapuru,0,–,1,–,–,0,–,–,3,–
+BA,Serrano-BA †,Porto Seguro,0,–,1,–,–,0,–,–,1,–
+CE,Tiradentes-CE,Fortaleza,0,–,1,–,–,0,–,–,1,–
+SC,América de Joinville †,Joinville,0,–,1,–,–,0,–,–,0,–
+DF,Atlético Taguatinga [CBA] †,Taguatinga,0,–,1,–,–,0,–,–,0,–
+BA,Botafogo-BA [BSC] †,Senhor do Bonfim,0,–,1,–,–,0,–,–,0,–
+CE,Calouros do Ar,Fortaleza,0,–,1,–,–,0,–,–,0,–
+SP,GE Catanduvense †,Catanduva,0,–,1,–,–,0,–,–,0,–
+RJ,Central-RJ †,Barra do Piraí,0,–,1,–,–,0,–,–,0,–
+ES,Guarapari †,Guarapari,0,–,1,–,–,0,–,–,0,–
+CE,Maguari †,Fortaleza,0,–,1,–,–,0,–,–,0,–
+PR,Foz do Iguaçu EC †,Foz do Iguaçu,0,–,1,–,–,0,–,–,0,–
+GO,Nacional de Itumbiara †,Itumbiara,0,–,1,–,–,0,–,–,0,–
+AM,Rodoviária †,Manaus,0,–,1,–,–,0,–,–,0,–
+AL,São Domingos †,Marechal Deodoro,0,–,1,–,–,0,–,–,0,–
+RJ,Madureira,Rio de Janeiro,0,–,0,–,–,13,–,1,5,1
+SP,Rio Branco-SP,Americana,0,–,0,–,–,12,–,–,0,–
+PA,Águia de Marabá,Marabá,0,–,0,–,–,10,–,1,1,–
+SP,Atlético Sorocaba †,Sorocaba,0,–,0,–,–,10,–,–,0,–
+PE,Porto-PE,Caruaru,0,–,0,–,–,8,–,–,2,–
+RO,Ji-Paraná,Ji-Paraná,0,–,0,–,–,8,–,–,1,–
+RS,São José-RS,Porto Alegre,0,–,0,–,–,7,–,–,5,1
+TO,Tocantinópolis,Tocantinópolis,0,–,0,–,–,7,–,–,4,–
+RS,Ypiranga de Erechim,Erechim,0,–,0,–,–,7,–,–,2,1
+MG,Tombense,Tombos,0,–,0,–,–,7,–,–,1,1
+MS,CENE †,Campo Grande,0,–,0,–,–,6,–,–,3,–
+RJ,Friburguense,Nova Friburgo,0,–,0,–,–,6,–,–,2,–
+BA,Juazeiro,Juazeiro,0,–,0,–,–,6,–,–,0,–
+TO,Palmas,Palmas,0,–,0,–,–,5,–,–,5,–
+AP,Ypiranga-AP,Macapá,0,–,0,–,–,5,–,–,4,–
+RR,Atlético Roraima,Boa Vista,0,–,0,–,–,5,–,–,3,–
+RR,Baré,Boa Vista,0,–,0,–,–,5,–,–,3,–
+PR,Iraty †,Irati,0,–,0,–,–,5,–,–,1,–
+PR,Rio Branco-PR,Paranaguá,0,–,0,–,–,5,–,–,1,–
+PE,Vitória-PE [VIT],Vitória de Santo Antão,0,–,0,–,–,5,–,–,1,–
+RS,Canoas [CAN] †,Canoas,0,–,0,–,–,5,–,–,0,–
+AL,Corinthians-AL †,Maceió,0,–,0,–,–,5,–,–,0,–
+PR,Matsubara †,Cambará,0,–,0,–,–,5,–,–,0,–
+SP,Portuguesa Santista,Santos,0,–,0,–,–,5,–,–,0,–
+SC,Tubarão-SC †,Tubarão,0,–,0,–,–,5,–,–,0,–
+AC,Atlético Acreano,Rio Branco,0,–,0,–,–,4,–,1,6,1
+AL,Coruripe,Coruripe,0,–,0,–,–,4,–,–,6,–
+GO,CRAC,Catalão,0,–,0,–,–,4,–,2,3,1
+RR,São Raimundo-RR,Boa Vista,0,–,0,–,–,3,–,–,6,–
+SP,Mirassol,Mirassol,0,–,0,–,–,3,–,–,5,1
+PB,Sousa,Sousa,0,–,0,–,–,3,–,–,4,–
+TO,Araguaína,Araguaína,0,–,0,–,–,3,–,1,2,1
+RJ,Cabofriense,Cabo Frio,0,–,0,–,–,3,–,–,2,–
+TO,Gurupi,Gurupi,0,–,0,–,–,3,–,–,2,–
+PB,Atlético Cajazeirense,Cajazeiras,0,–,0,–,–,3,–,–,1,–
+BA,Colo Colo,Ilhéus,0,–,0,–,–,3,–,–,1,–
+AC,Andirá,Rio Branco,0,–,0,–,–,3,–,–,0,–
+DF,CFZ-DF,Brasília,0,–,0,–,–,3,–,–,0,–
+PI,Corisabbá,Floriano,0,–,0,–,–,3,–,–,0,–
+SP,Nacional-SP,São Paulo,0,–,0,–,–,3,–,–,0,–
+PR,Paranavaí,Paranavaí,0,–,0,–,–,3,–,–,0,–
+DF,Real Brasília [REA],Núcleo Bandeirante,0,–,0,–,–,3,–,–,0,–
+PA,São Raimundo-PA,Santarém,0,–,0,–,–,2,–,1,6,1
+PR,Cianorte,Cianorte,0,–,0,–,–,2,–,–,5,–
+RN,Globo,Ceará-Mirim,0,–,0,–,–,2,–,1,5,1
+RO,Genus [GEN],Porto Velho,0,–,0,–,–,2,–,–,5,–
+RJ,Portuguesa-RJ,Rio de Janeiro,0,–,0,–,–,2,–,–,4,–
+MS,Águia Negra,Rio Brilhante,0,–,0,–,–,2,–,–,3,–
+BA,Jacuipense,Riachão do Jacuípe,0,–,0,–,–,2,–,–,3,1
+AM,Manaus,Manaus,0,–,0,–,–,2,–,–,2,1
+PE,Ypiranga-PE,Santa Cruz do Capibaribe,0,–,0,–,–,2,–,–,2,–
+PA,Castanhal,Castanhal,0,–,0,–,–,2,–,–,1,–
+SC,Juventus de Jaraguá,Jaraguá do Sul,0,–,0,–,–,2,–,–,1,–
+RS,15 de Novembro †,Campo Bom,0,–,0,–,–,2,–,–,0,–
+PR,ADAP/Galo Maringá †,Maringá,0,–,0,–,–,2,–,–,0,–
+AP,Amapá,Macapá,0,–,0,–,–,2,–,–,0,–
+PA,Ananindeua,Ananindeua,0,–,0,–,–,2,–,–,0,–
+SC,Atlético de Ibirama,Ibirama,0,–,0,–,–,2,–,–,0,–
+MA,Bacabal,Bacabal,0,–,0,–,–,2,–,–,0,–
+PI,Barras †,Barras,0,–,0,–,–,2,–,–,0,–
+PR,Batel,Guarapuava,0,–,0,–,–,2,–,–,0,–
+MA,Caxiense †,Caxias,0,–,0,–,–,2,–,–,0,–
+DF,Ceilandense,Ceilândia,0,–,0,–,–,2,–,–,0,–
+RN,Corintians de Caicó †,Caicó,0,–,0,–,–,2,–,–,0,–
+AM,Grêmio Coariense †,Coari,0,–,0,–,–,2,–,–,0,–
+GO,Grêmio Anápolis,Anápolis,0,–,0,–,–,2,–,–,0,–
+MT,Grêmio Jaciara †,Jaciara,0,–,0,–,–,2,–,–,0,–
+BA,Ipitanga †,Lauro de Freitas,0,–,0,–,–,2,–,–,0,–
+CE,Itapipoca,Itapipoca,0,–,0,–,–,2,–,–,0,–
+PA,Izabelense,Santa Izabel do Pará,0,–,0,–,–,2,–,–,0,–
+GO,Jataiense,Jataí,0,–,0,–,–,2,–,–,0,–
+TO,Kaburé †,Colinas do Tocantins,0,–,0,–,–,2,–,–,0,–
+ES,Linhares,Linhares,0,–,0,–,–,2,–,–,0,–
+SE,Maruinense,Maruim,0,–,0,–,–,2,–,–,0,–
+SP,Matonense,Matão,0,–,0,–,–,2,–,–,0,–
+BA,Palmeiras do Nordeste †,Feira de Santana,0,–,0,–,–,2,–,–,0,–
+DF,Planaltina,Planaltina,0,–,0,–,–,2,–,–,0,–
+PR,Ponta Grossa †,Ponta Grossa,0,–,0,–,–,2,–,–,0,–
+RR,Progresso,Mucajaí,0,–,0,–,–,2,–,–,0,–
+MA,Santa Inês †,Santa Inês,0,–,0,–,–,2,–,–,0,–
+RN,São Gonçalo-RN †,São Gonçalo do Amarante,0,–,0,–,–,2,–,–,0,–
+SP,Sertãozinho,Sertãozinho,0,–,0,–,–,2,–,–,0,–
+MS,Taveirópolis †,Campo Grande,0,–,0,–,–,2,–,–,0,–
+TO,União Araguainense †,Araguaína,0,–,0,–,–,2,–,–,0,–
+AC,Vasco-AC,Rio Branco,0,–,0,–,–,2,–,–,0,–
+MA,Viana,Viana,0,–,0,–,–,2,–,–,0,–
+SC,Metropolitano,Blumenau,0,–,0,–,–,1,–,–,8,–
+AP,Santos-AP,Macapá,0,–,0,–,–,1,–,–,8,–
+BA,Vitória da Conquista,Vitória da Conquista,0,–,0,–,–,1,–,–,6,–
+PI,Altos,Altos,0,–,0,–,–,1,–,–,5,1
+RJ,Boavista-RJ,Saquarema,0,–,0,–,–,1,–,–,5,–
+BA,Juazeirense,Juazeiro,0,–,0,–,–,1,–,1,5,1
+MG,URT,Patos de Minas,0,–,0,–,–,1,–,–,4,–
+SP,Novorizontino,Novo Horizonte,0,–,0,–,–,1,–,–,3,1
+DF,Luziânia,Luziânia,0,–,0,–,–,1,–,–,3,–
+AP,Trem,Macapá,0,–,0,–,–,1,–,–,3,–
+PI,4 de Julho,Piripiri,0,–,0,–,–,1,–,–,2,–
+AP,Cristal †,Macapá,0,–,0,–,–,1,–,–,2,–
+CE,Floresta,Fortaleza,0,–,0,–,–,1,–,–,2,1
+SP,Linense,Lins,0,–,0,–,–,1,–,–,2,–
+PA,São Francisco,Santarém,0,–,0,–,–,1,–,–,2,–
+MT,Vila Aurora,Rondonópolis,0,–,0,–,–,1,–,–,2,–
+AM,América-AM †,Manaus,0,–,0,–,–,1,–,–,1,–
+DF,Botafogo-DF [BOT],Guará,0,–,0,–,–,1,–,–,1,–
+BA,Camaçari †,Camaçari,0,–,0,–,–,1,–,–,1,–
+PE,Flamengo de Arcoverde,Arcoverde,0,–,0,–,–,1,–,–,1,–
+RR,GAS [GAS],Caracaraí,0,–,0,–,–,1,–,–,1,–
+RS,Gaúcho,Passo Fundo,0,–,0,–,–,1,–,–,1,–
+MG,Guarani-MG,Divinópolis,0,–,0,–,–,1,–,–,1,–
+CE,Horizonte,Horizonte,0,–,0,–,–,1,–,–,1,–
+AP,Macapá,Macapá,0,–,0,–,–,1,–,–,1,–
+PR,Nacional-PR,Rolândia,0,–,0,–,–,1,–,–,1,–
+PE,Petrolina,Petrolina,0,–,0,–,–,1,–,–,1,–
+RN,Santa Cruz-RN,Santa Cruz,0,–,0,–,–,1,–,–,1,–
+RS,São Luiz,Ijuí,0,–,0,–,–,1,–,–,1,–
+ES,São Mateus,São Mateus,0,–,0,–,–,1,–,–,1,–
+PR,Toledo,Toledo,0,–,0,–,–,1,–,–,1,–
+PA,Abaeté †,Abaetetuba,0,–,0,–,–,1,–,–,0,–
+PR,ADAP †,Campo Mourão,0,–,0,–,–,1,–,–,0,–
+AC,ADESG †,Senador Guiomard,0,–,0,–,–,1,–,–,0,–
+TO,Alvorada,Alvorada,0,–,0,–,–,1,–,–,0,–
+PB,América de Esperança †,Esperança,0,–,0,–,–,1,–,–,0,–
+SP,Araçatuba,Araçatuba,0,–,0,–,–,1,–,–,0,–
+RO,SE Ariquemes †,Ariquemes,0,–,0,–,–,1,–,–,0,–
+MG,Atlético Três Corações,Três Corações,0,–,0,–,–,1,–,–,0,–
+RJ,Barra de Teresópolis †,Teresópolis,0,–,0,–,–,1,–,–,0,–
+RJ,Barra Mansa,Barra Mansa,0,–,0,–,–,1,–,–,0,–
+AL,Batalhense †,Belém,0,–,0,–,–,1,–,–,0,–
+RJ,Bayer †,Belford Roxo,0,–,0,–,–,1,–,–,0,–
+SC,Caçadorense †,Caçador,0,–,0,–,–,1,–,–,0,–
+MT,Cacerense,Cáceres,0,–,0,–,–,1,–,–,0,–
+ES,Cachoeiro †,Cachoeiro de Itapemirim,0,–,0,–,–,1,–,–,0,–
+GO,Caldas,Caldas Novas,0,–,0,–,–,1,–,–,0,–
+SC,Caxias-SC,Joinville,0,–,0,–,–,1,–,–,0,–
+PE,Centro Limoeirense,Limoeiro,0,–,0,–,–,1,–,–,0,–
+RO,CFA †,Porto Velho,0,–,0,–,–,1,–,–,0,–
+RJ,CFZ-RJ †,Rio de Janeiro,0,–,0,–,–,1,–,–,0,–
+MS,Chapadão,Chapadão do Sul,0,–,0,–,–,1,–,–,0,–
+MA,Chapadinha,Chapadinha,0,–,0,–,–,1,–,–,0,–
+SP,Corinthians-PP †,Presidente Prudente,0,–,0,–,–,1,–,–,0,–
+MA,Coroatá †,Coroatá,0,–,0,–,–,1,–,–,0,–
+MS,Coxim,Coxim,0,–,0,–,–,1,–,–,0,–
+MA,Duque de Caxias-MA †,Caxias,0,–,0,–,–,1,–,–,0,–
+PR,Engenheiro Beltrão †,Engenheiro Beltrão,0,–,0,–,–,1,–,–,0,–
+CE,EC Limoeiro,Limoeiro do Norte,0,–,0,–,–,1,–,–,0,–
+MG,Fabril †,Lavras,0,–,0,–,–,1,–,–,0,–
+PB,Guarabira,Guarabira,0,–,0,–,–,1,–,–,0,–
+RS,Guarany de Cruz Alta †,Cruz Alta,0,–,0,–,–,1,–,–,0,–
+AM,Holanda,Rio Preto da Eva,0,–,0,–,–,1,–,–,0,–
+PR,Iguaçu,União da Vitória,0,–,0,–,–,1,–,–,0,–
+PE,Itacuruba †,Itacuruba,0,–,0,–,–,1,–,–,0,–
+ES,Jaguaré †,Jaguaré,0,–,0,–,–,1,–,–,0,–
+RO,Jaruense †,Jaru,0,–,0,–,–,1,–,–,0,–
+SC,Joaçaba †,Joaçaba,0,–,0,–,–,1,–,–,0,–
+MT,Juventude-MT †,Primavera do Leste,0,–,0,–,–,1,–,–,0,–
+SE,Lagartense,Lagarto,0,–,0,–,–,1,–,–,0,–
+SC,Lages †,Lages,0,–,0,–,–,1,–,–,0,–
+DF,Legião,Brasília,0,–,0,–,–,1,–,–,0,–
+CE,AD Limoeiro †,Limoeiro do Norte,0,–,0,–,–,1,–,–,0,–
+ES,Linhares EC †,Linhares,0,–,0,–,–,1,–,–,0,–
+MG,Mamoré,Patos de Minas,0,–,0,–,–,1,–,–,0,–
+PE,Manchete †[MAN],Recife,0,–,0,–,–,1,–,–,0,–
+GO,Mineiros,Mineiros,0,–,0,–,–,1,–,–,0,–
+MG,Montes Claros,Montes Claros,0,–,0,–,–,1,–,–,0,–
+GO,Novo Horizonte,Ipameri,0,–,0,–,–,1,–,–,0,–
+SP,Olímpia,Olímpia,0,–,0,–,–,1,–,–,0,–
+MT,Operário Ltda.,Várzea Grande,0,–,0,–,–,1,–,–,0,–
+MT,EC Operário †,Várzea Grande,0,–,0,–,–,1,–,–,0,–
+TO,Paraíso [PAR] †,Paraíso do Tocantins,0,–,0,–,–,1,–,–,0,–
+DF,Paranoá,Paranoá,0,–,0,–,–,1,–,–,0,–
+RS,Passo Fundo,Passo Fundo,0,–,0,–,–,1,–,–,0,–
+RN,Pauferrense †,Pau dos Ferros,0,–,0,–,–,1,–,–,0,–
+PE,Paulistano †,Paulista,0,–,0,–,–,1,–,–,0,–
+RS,Pedrabranca †[PED],Alvorada,0,–,0,–,–,1,–,–,0,–
+SE,Pirambu †,Pirambu,0,–,0,–,–,1,–,–,0,–
+BA,Poções †,Poções,0,–,0,–,–,1,–,–,0,–
+CE,Quixadá †,Quixadá,0,–,0,–,–,1,–,–,0,–
+GO,Real Clube †,Itumbiara,0,–,0,–,–,1,–,–,0,–
+SP,Rio Claro,Rio Claro,0,–,0,–,–,1,–,–,0,–
+RR,Rio Negro-RR,Boa Vista,0,–,0,–,–,1,–,–,0,–
+ES,Rio Pardo †,Iúna,0,–,0,–,–,1,–,–,0,–
+GO,Rio Verde,Rio Verde,0,–,0,–,–,1,–,–,0,–
+GO,Rioverdense,Rio Verde,0,–,0,–,–,1,–,–,0,–
+PR,Roma de Apucarana †,Apucarana,0,–,0,–,–,1,–,–,0,–
+PB,Santa Cruz-PB †,Santa Rita,0,–,0,–,–,1,–,–,0,–
+PA,Santa Rosa,Belém,0,–,0,–,–,1,–,–,0,–
+RS,São Borja [SBO],São Borja,0,–,0,–,–,1,–,–,0,–
+SP,Sãocarlense,São Carlos,0,–,0,–,–,1,–,–,0,–
+RJ,São Cristóvão,Rio de Janeiro,0,–,0,–,–,1,–,–,0,–
+RS,São Gabriel FC †,São Gabriel,0,–,0,–,–,1,–,–,0,–
+AP,São José-AP †,Macapá,0,–,0,–,–,1,–,–,0,–
+PE,Serrano-PE,Serra Talhada,0,–,0,–,–,1,–,–,0,–
+AL,Sete de Setembro-AL,Maceió,0,–,0,–,–,1,–,–,0,–
+MG,Social,Coronel Fabriciano,0,–,0,–,–,1,–,–,0,–
+PA,Tiradentes-PA,Belém,0,–,0,–,–,1,–,–,0,–
+MA,Tocantins-MA †,Imperatriz,0,–,0,–,–,1,–,–,0,–
+RO,Ulbra-RO †,Ji-Paraná,0,–,0,–,–,1,–,–,0,–
+PE,Unibol †,Paulista,0,–,0,–,–,1,–,–,0,–
+PA,Vênus,Abaetetuba,0,–,0,–,–,1,–,–,0,–
+PE,Vera Cruz,Vitória de Santo Antão,0,–,0,–,–,1,–,–,0,–
+GO,Aparecidense,Aparecida de Goiânia,0,–,0,–,–,0,–,–,9,–
+CE,Guarani de Juazeiro,Juazeiro do Norte,0,–,0,–,–,0,–,–,5,–
+GO,Goianésia,Goianésia,0,–,0,–,–,0,–,–,6,–
+MT,Sinop,Sinop,0,–,0,–,–,0,–,–,5,–
+BA,Bahia de Feira,Feira de Santana,0,–,0,–,–,0,–,–,4,–
+PR,Maringá,Maringá,0,–,0,–,–,0,–,–,4,–
+AL,Murici,Murici,0,–,0,–,–,0,–,–,4,–
+RR,Náutico-RR,Caracaraí,0,–,0,–,–,0,–,–,4,–
+RO,Real Ariquemes,Ariquemes,0,–,0,–,–,0,–,–,4,–
+ES,Espírito Santo,Vitória,0,–,0,–,–,0,–,–,3,–
+PR,Foz do Iguaçu,Foz do Iguaçu,0,–,0,–,–,0,–,–,3,–
+PA,Independente-PA,Tucuruí,0,–,0,–,–,0,–,–,3,–
+TO,Interporto,Porto Nacional,0,–,0,–,–,0,–,–,3,–
+AC,Plácido de Castro,Plácido de Castro,0,–,0,–,–,0,–,–,3,–
+CE,Atlético Cearense,Fortaleza,0,–,0,–,–,0,–,–,3,–
+SC,Tubarão,Tubarão,0,–,0,–,–,0,–,–,3,–
+AC,Galvez,Rio Branco,0,–,0,–,–,0,–,–,3,–
+AM,Penarol,Itacoatiara,0,–,0,–,–,0,–,–,3,–
+RO,Vilhena,Vilhena,0,–,0,–,–,0,–,–,3,–
+MS,Aquidauanense,Aquidauana,0,–,0,–,–,0,–,–,2,–
+ES,Aracruz †,Aracruz,0,–,0,–,–,0,–,–,2,–
+SP,Audax,Osasco,0,–,0,–,–,0,–,–,2,–
+RO,Barcelona-RO,Vilhena,0,–,0,–,–,0,–,–,2,–
+PA,Bragantino-PA,Bragança,0,–,0,–,–,0,–,–,2,–
+RS,Cerâmica †,Gravataí,0,–,0,–,–,0,–,–,2,–
+PI,Comercial-PI,Campo Maior,0,–,0,–,–,0,–,–,2,–
+MA,Cordino,Barra do Corda,0,–,0,–,–,0,–,–,2,–
+PR,FC Cascavel,Cascavel,0,–,0,–,–,0,–,–,2,–
+GO,Iporá,Iporá,0,–,0,–,–,0,–,–,2,–
+MA,Juventude-MA,São Mateus do Maranhão,0,–,0,–,–,0,–,–,2,–
+RS,Lajeadense,Lajeado,0,–,0,–,–,0,–,–,2,–
+RJ,Nova Iguaçu,Nova Iguaçu,0,–,0,–,–,0,–,–,2,–
+PA,Paragominas,Paragominas,0,–,0,–,–,0,–,–,2,–
+MG,Patrocinense,Patrocínio,0,–,0,–,–,0,–,–,2,–
+SP,Penapolense,Penápolis,0,–,0,–,–,0,–,–,2,–
+PR,PSTC,Cornélio Procópio,0,–,0,–,–,0,–,–,2,–
+SP,Red Bull Brasil,Campinas,0,–,0,–,–,0,–,–,2,–
+RJ,Resende,Resende,0,–,0,–,–,0,–,–,2,–
+SE,River Plate-SE,Carmópolis,0,–,0,–,–,0,–,–,2,–
+PE,Serra Talhada,Serra Talhada,0,–,0,–,–,0,–,–,2,–
+MS,Sete de Dourados,Dourados,0,–,0,–,–,0,–,–,2,–
+PE,Afogados,Afogados da Ingazeira,0,–,0,–,–,0,–,–,1,–
+RS,Aimoré,São Leopoldo,0,–,0,–,–,0,–,–,1,–
+MT,AA Araguaia,Barra do Garças,0,–,0,–,–,0,–,–,1,–
+MT,Araguaia AC †,Alto Araguaia,0,–,0,–,–,0,–,–,1,–
+PR,Arapongas,Arapongas,0,–,0,–,–,0,–,–,1,–
+MG,Araxá,Araxá,0,–,0,–,–,0,–,–,1,–
+RN,ASSU,Assu,0,–,0,–,–,0,–,–,1,–
+RS,Avenida,Santa Cruz do Sul,0,–,0,–,–,0,–,–,1,–
+ES,Atlético Itapemirim,Itapemirim,0,–,0,–,–,0,–,–,1,–
+PE,Atlético Pernambucano,Carpina,0,–,0,–,–,0,–,–,1,–
+RJ,Audax Rio,São João de Meriti,0,–,0,–,–,0,–,–,1,–
+PE,Belo Jardim,Belo Jardim,0,–,0,–,–,0,–,–,1,–
+PA,Cametá,Cametá,0,–,0,–,–,0,–,–,1,–
+CE,Caucaia,Caucaia,0,–,0,–,–,0,–,–,1,–
+SC,Concórdia,Concórdia,0,–,0,–,–,0,–,–,1,–
+RS,Cruzeiro-RS,Cachoeirinha,0,–,0,–,–,0,–,–,1,–
+SE,Estanciano,Estância,0,–,0,–,–,0,–,–,1,–
+BA,Feirense †,Feira de Santana,0,–,0,–,–,0,–,–,1,–
+DF,Formosa,Formosa,0,–,0,–,–,0,–,–,1,–
+SE,Freipaulistano,Frei Paulo,0,–,0,–,–,0,–,–,1,–
+SC,Guarani de Palhoça,Palhoça,0,–,0,–,–,0,–,–,1,–
+RJ,Itaboraí,Itaboraí,0,–,0,–,–,0,–,–,1,–
+MS,Itaporã †,Itaporã,0,–,0,–,–,0,–,–,1,–
+GO,Jaraguá,Jaraguá,0,–,0,–,–,0,–,–,1,–
+AL,Jacyobá,Pão de Açúcar,0,–,0,–,–,0,–,–,1,–
+BA,Jacobina,Jacobina,0,–,0,–,–,0,–,–,1,–
+MA,JV Lideral †,Imperatriz,0,–,0,–,–,0,–,–,1,–
+MG,Nacional-MG [NAC] †,Esmeraldas,0,–,0,–,–,0,–,–,1,–
+AC,Náuas,Cruzeiro do Sul,0,–,0,–,–,0,–,–,1,–
+MS,CE Naviraiense,Naviraí,0,–,0,–,–,0,–,–,1,–
+MT,Nova Mutum,Nova Mutum,0,–,0,–,–,0,–,–,1,–
+MS,Novo,Campo Grande,0,–,0,–,–,0,–,–,1,–
+RO,Porto Velho,Porto Velho,0,–,0,–,–,0,–,–,1,–
+PR,Prudentópolis,Prudentópolis,0,–,0,–,–,0,–,–,1,–
+ES,Real Noroeste,Águia Branca,0,–,0,–,–,0,–,–,1,–
+PE,Retrô,Camaragibe,0,–,0,–,–,0,–,–,1,–
+ES,Rio Branco VN,Venda Nova do Imigrante,0,–,0,–,–,0,–,–,1,–
+RO,Rondoniense,Porto Velho,0,–,0,–,–,0,–,–,1,–
+RN,Santa Cruz de Natal,Natal,0,–,0,–,–,0,–,–,1,–
+AL,Santa Rita,Boca da Mata,0,–,0,–,–,0,–,–,1,–
+AP,Santana,Santana,0,–,0,–,–,0,–,–,1,–
+SP,São Bernardo,São Bernardo do Campo,0,–,0,–,–,0,–,–,1,–
+PB,Serrano-PB,Campina Grande,0,–,0,–,–,0,–,–,1,–
+TO,Sparta,Araguaína,0,–,0,–,–,0,–,–,1,–
+TO,Tocantins de Miracema,Miracema do Tocantins,0,–,0,–,–,0,–,–,1,–
+TO,Tocantins de Palmas †,Palmas,0,–,0,–,–,0,–,–,1,–
+MG,Tupynambás,Juiz de Fora,0,–,0,–,–,0,–,–,1,–
+RO,Vilhenense,Vilhena,0,–,0,–,–,0,–,–,1,–
