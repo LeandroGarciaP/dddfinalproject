@@ -24,7 +24,7 @@ Pensando nisso, o objetivo desse projeto é consolidar e tratar os registros de 
 
 
 ## Slides da Apresentação
-> Coloque aqui o link para o PDF da apresentação final
+> [Slides](https://github.com/LeandroGarciaP/dddfinalproject/blob/main/final/assets/Apresenta%C3%A7%C3%A3o%20MC536.pdf)
 
 ## Modelo Conceitual
 
